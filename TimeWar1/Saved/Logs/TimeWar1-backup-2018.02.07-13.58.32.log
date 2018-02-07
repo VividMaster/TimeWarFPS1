@@ -1,0 +1,1041 @@
+﻿Log file open, 02/07/18 13:44:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TimeWar1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1939418242) SRandInit(-1939418242).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264485
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Binaries/Win64/UE4Editor-TimeWar1.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.07-21.44.38:761][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.07-21.44.38:761][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.07-21.44.38:803][  0]LogInit: Computer: NOAH-DESKTOP
+[2018.02.07-21.44.38:803][  0]LogInit: User: USER
+[2018.02.07-21.44.38:803][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.02.07-21.44.38:803][  0]LogInit: High frequency timer resolution =3.222656 MHz
+[2018.02.07-21.44.38:804][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2018.02.07-21.44.38:804][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.07-21.44.38:804][  0]LogMemory: Process Physical Memory: 273.74 MB used, 273.74 MB peak
+[2018.02.07-21.44.38:804][  0]LogMemory: Process Virtual Memory: 270.48 MB used, 270.48 MB peak
+[2018.02.07-21.44.38:804][  0]LogMemory: Physical Memory: 5932.35 MB used,  59505.24 MB free, 65437.59 MB total
+[2018.02.07-21.44.38:804][  0]LogMemory: Virtual Memory: 649.70 MB used,  59505.24 MB free, 134217728.00 MB total
+[2018.02.07-21.44.39:147][  0]LogInit: Using OS detected language (en-US).
+[2018.02.07-21.44.39:147][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.07-21.44.39:150][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.07-21.44.39:572][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.07-21.44.39:947][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.07-21.44.40:016][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.02.07-21.44.40:016][  0]LogD3D11RHI:       4062/0/32718 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.07-21.44.40:020][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.07-21.44.40:020][  0]LogD3D11RHI:       0/0/32718 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.07-21.44.40:020][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.07-21.44.40:027][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.07-21.44.40:027][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.07-21.44.40:027][  0]LogWindows: EnumDisplayDevices:
+[2018.02.07-21.44.40:027][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.02.07-21.44.40:028][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.02.07-21.44.40:028][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.02.07-21.44.40:028][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.02.07-21.44.40:029][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.02.07-21.44.40:029][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.02.07-21.44.40:029][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.02.07-21.44.40:029][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.02.07-21.44.40:029][  0]LogRHI: Texture pool is 2843 MB (70% of 4062 MB)
+[2018.02.07-21.44.40:084][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.07-21.44.40:103][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.07-21.44.40:106][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Intermediate/Shaders/WorkingDirectory/11808/).
+[2018.02.07-21.44.40:106][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER/AppData/Local/Temp/UnrealShaderWorkingDir/16804E0346AC2D77459B38B1C5AED4C3/'.
+[2018.02.07-21.44.40:106][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.07-21.44.41:315][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.07-21.44.41:405][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.07-21.44.41:533][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.07-21.44.41:616][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.07-21.44.41:697][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.07-21.44.41:781][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.07-21.44.41:884][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.07-21.44.41:969][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.07-21.44.42:050][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.07-21.44.42:132][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.07-21.44.42:238][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.07-21.44.42:321][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.07-21.44.42:413][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.07-21.44.42:499][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.07-21.44.42:660][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.07-21.44.42:660][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.07-21.44.42:740][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.07-21.44.42:815][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.07-21.44.42:950][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.07-21.44.42:991][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.07-21.44.43:083][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.07-21.44.43:169][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.07-21.44.43:250][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.07-21.44.43:330][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.07-21.44.43:330][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.07-21.44.44:160][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.07-21.44.44:241][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.07-21.44.44:241][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.07-21.44.44:241][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.07-21.44.44:241][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.07-21.44.44:242][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.07-21.44.44:242][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.07-21.44.44:261][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.07-21.44.44:273][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.07-21.44.44:283][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.07-21.44.44:284][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.07-21.44.44:284][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.07-21.44.44:284][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.07-21.44.44:786][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.07-21.44.45:295][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.07-21.44.45:365][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.07-21.44.45:365][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.07-21.44.45:365][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.07-21.44.45:365][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.07-21.44.45:365][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.07-21.44.45:415][  0]LogNetVersion: TimeWar1 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1265721764)
+[2018.02.07-21.44.45:639][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.02.07-21.44.46:350][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.081733 seconds
+[2018.02.07-21.44.46:354][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.07-21.44.46:354][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.07-21.44.46:354][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.07-21.44.46:467][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.07-21.44.51:201][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.07-21.44.51:258][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.07-21.44.52:981][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.07-21.44.53:663][  0]SourceControl: Source control is disabled
+[2018.02.07-21.44.53:663][  0]SourceControl: Source control is disabled
+[2018.02.07-21.44.53:749][  0]SourceControl: Source control is disabled
+[2018.02.07-21.44.53:839][  0]SourceControl: Source control is disabled
+[2018.02.07-21.44.55:702][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.07-21.44.56:248][  0]LogOcInput: OculusInput pre-init called
+[2018.02.07-21.44.56:922][  0]LogEngine: Initializing Engine...
+[2018.02.07-21.44.56:928][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.07-21.44.57:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.07-21.44.57:202][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.07-21.44.57:459][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.07-21.44.57:481][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.07-21.44.57:504][  0]LogInit: FAudioDevice initialized.
+[2018.02.07-21.44.57:620][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.07-21.44.57:635][  0]LogInit: Texture streaming: Enabled
+[2018.02.07-21.44.57:833][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.07-21.44.58:052][  0]LogInit: Transaction tracking system initialized
+[2018.02.07-21.44.58:616][  0]BlueprintLog: New page: Editor Load
+[2018.02.07-21.45.00:413][  0]LocalizationService: Localization service is disabled
+[2018.02.07-21.45.02:005][  0]LogConsoleResponse: Display: 
+[2018.02.07-21.45.02:268][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.07-21.45.02:268][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.07-21.45.02:268][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.07-21.45.02:801][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/' took 0.01s
+[2018.02.07-21.45.04:613][  0]SourceControl: Source control is disabled
+[2018.02.07-21.45.04:613][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.07-21.45.04:613][  0]LightingResults: New page: Lighting Build
+[2018.02.07-21.45.04:759][  0]MapCheck: New page: Map Check
+[2018.02.07-21.45.04:759][  0]LightingResults: New page: Lighting Build
+[2018.02.07-21.45.05:086][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.07-21.45.05:102][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.07-21.45.05:126][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.07-21.45.05:206][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.795ms to complete.
+[2018.02.07-21.45.05:206][  0]LogFileHelpers: Loading map 'Template_Default' took 0.593
+[2018.02.07-21.45.05:260][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.07-21.45.05:441][  0]LogCollectionManager: Loaded 0 collections in 0.001526 seconds
+[2018.02.07-21.45.05:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Collections/' took 0.01s
+[2018.02.07-21.45.05:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Developers/USER/Collections/' took 0.01s
+[2018.02.07-21.45.05:582][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Collections/' took 0.01s
+[2018.02.07-21.45.05:582][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.07-21.45.05:591][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2364 classes and 521 folders.
+[2018.02.07-21.45.05:728][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.02.07-21.45.05:794][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.07-21.45.05:879][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.07-21.45.05:942][  0]LogSlate: Took 0.008461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.07-21.45.05:951][  0]LogSlate: Took 0.007654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.07-21.45.05:965][  0]LogSlate: Took 0.007699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.07-21.45.06:064][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.07-21.45.06:428][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0017 seconds. Added 1 classes and 2 folders.
+[2018.02.07-21.45.06:428][  0]LogLoad: (Engine Initialization) Total time: 31.38 seconds
+[2018.02.07-21.45.06:428][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.07-21.45.06:428][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.07-21.45.06:463][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.07-21.45.06:553][  0]LogSlate: Took 0.000420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.07-21.45.06:574][  1]LogAssetRegistry: Asset discovery search completed in 20.9576 seconds
+[2018.02.07-21.45.06:576][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.07-21.45.06:576][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2018.02.07-21.47.24:986][932]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.07-21.47.29:155][932]LogSavePackage: Save=78.47ms
+[2018.02.07-21.47.29:155][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Walls_NormalA40CD8C04A44996E4B14319381CED4A4.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Walls_Normal.uasset'
+[2018.02.07-21.47.29:169][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Walls_Normal.uasset
+[2018.02.07-21.47.29:215][932]LogSavePackage: Save=20.91ms
+[2018.02.07-21.47.29:215][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Walls_ambient_occlusion98ACA8074730EC3E4FD95FAC87EC74B9.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Walls_ambient_occlusion.uasset'
+[2018.02.07-21.47.29:219][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Walls_ambient_occlusion.uasset
+[2018.02.07-21.47.29:243][932]LogSavePackage: Save=5.94ms
+[2018.02.07-21.47.29:243][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Walls_baseB52126DC4891E55853C092A416700974.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Walls_base.uasset'
+[2018.02.07-21.47.29:246][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Walls_base.uasset
+[2018.02.07-21.47.29:300][932]LogSavePackage: Save=35.35ms
+[2018.02.07-21.47.29:300][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/roof_NormalFDF756374990206283743AB6BAD96887.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/roof_Normal.uasset'
+[2018.02.07-21.47.29:303][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/roof_Normal.uasset
+[2018.02.07-21.47.29:368][932]LogSavePackage: Save=47.64ms
+[2018.02.07-21.47.29:368][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/roof_baseF268443C4C5DD7702033379348477B2F.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/roof_base.uasset'
+[2018.02.07-21.47.29:372][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/roof_base.uasset
+[2018.02.07-21.47.29:432][932]LogSavePackage: Save=47.31ms
+[2018.02.07-21.47.29:432][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/roof_Metallic2A1AA0E9462DE15A5A3160B3A62E62FA.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/roof_Metallic.uasset'
+[2018.02.07-21.47.29:435][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/roof_Metallic.uasset
+[2018.02.07-21.47.29:485][932]LogSavePackage: Save=33.91ms
+[2018.02.07-21.47.29:485][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Floor_Normal35FC447C4D6EDAF4E62763A40B847E30.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Floor_Normal.uasset'
+[2018.02.07-21.47.29:488][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Floor_Normal.uasset
+[2018.02.07-21.47.29:511][932]LogSavePackage: Save=10.64ms
+[2018.02.07-21.47.29:511][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Floor_ambient_occlusion1EEDBAD643BD7F51CE7A5FAF2E250965.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Floor_ambient_occlusion.uasset'
+[2018.02.07-21.47.29:515][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Floor_ambient_occlusion.uasset
+[2018.02.07-21.47.29:568][932]LogSavePackage: Save=41.45ms
+[2018.02.07-21.47.29:568][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Floor_Metallic1E1DBD8E4B73944BAC6FAC95F48D16BA.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Floor_Metallic.uasset'
+[2018.02.07-21.47.29:571][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Floor_Metallic.uasset
+[2018.02.07-21.47.29:609][932]LogSavePackage: Save=25.30ms
+[2018.02.07-21.47.29:609][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Floor_baseFC52F537494100A702C1D588A13A6E20.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Floor_base.uasset'
+[2018.02.07-21.47.29:612][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/Floor_base.uasset
+[2018.02.07-21.47.29:638][932]LogSavePackage: Save=12.56ms
+[2018.02.07-21.47.29:638][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/beems_ambient_occlusionB70281F14407D1CAA83CEC8236100B1C.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/beems_ambient_occlusion.uasset'
+[2018.02.07-21.47.29:641][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/beems_ambient_occlusion.uasset
+[2018.02.07-21.47.29:685][932]LogSavePackage: Save=28.51ms
+[2018.02.07-21.47.29:685][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/beems_base9F0E81C6426C10D6203161B177C023F0.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/beems_base.uasset'
+[2018.02.07-21.47.29:689][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/beems_base.uasset
+[2018.02.07-21.47.29:761][932]LogSavePackage: Save=58.40ms
+[2018.02.07-21.47.29:761][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/beems_Normal2D3019DF4720E0A861EEE9B93F55E799.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/beems_Normal.uasset'
+[2018.02.07-21.47.29:764][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/beems_Normal.uasset
+[2018.02.07-21.47.29:827][932]LogSavePackage: Save=47.77ms
+[2018.02.07-21.47.29:827][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/X_beem_Metallic8FF287A841FB6F9F90FDEB9C2F060F08.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/X_beem_Metallic.uasset'
+[2018.02.07-21.47.29:831][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/X_beem_Metallic.uasset
+[2018.02.07-21.47.29:898][932]LogSavePackage: Save=55.26ms
+[2018.02.07-21.47.29:898][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/X_beem_Normal0CE8CBBD4509B7E5CD324EA44D2B8BF6.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/X_beem_Normal.uasset'
+[2018.02.07-21.47.29:902][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/X_beem_Normal.uasset
+[2018.02.07-21.47.29:936][932]LogSavePackage: Save=22.79ms
+[2018.02.07-21.47.29:936][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/X_beem_ambient_occlusionE772E5EB4232EC36E79426828F06D91B.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/X_beem_ambient_occlusion.uasset'
+[2018.02.07-21.47.29:940][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/X_beem_ambient_occlusion.uasset
+[2018.02.07-21.47.30:068][932]LogSavePackage: Save=114.69ms
+[2018.02.07-21.47.30:068][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/X_beem_base7472D7D2415E423493B50585E636DE8B.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/X_beem_base.uasset'
+[2018.02.07-21.47.30:071][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/Textures/X_beem_base.uasset
+[2018.02.07-21.47.30:860][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Game/Warehouse/walls" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/walls.uasset" SILENT=true
+[2018.02.07-21.47.30:901][932]LogSavePackage: Save=25.33ms
+[2018.02.07-21.47.30:901][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/walls77D39C91458C53AA8B4D9E926971A639.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/walls.uasset'
+[2018.02.07-21.47.30:903][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/walls.uasset
+[2018.02.07-21.47.30:943][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Game/Warehouse/roof" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/roof.uasset" SILENT=true
+[2018.02.07-21.47.30:987][932]LogSavePackage: Save=36.25ms
+[2018.02.07-21.47.30:987][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/roof1ABF964A46D36D9126EF0AB52CD40B1C.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/roof.uasset'
+[2018.02.07-21.47.30:991][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/roof.uasset
+[2018.02.07-21.47.31:041][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Game/Warehouse/floor" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/floor.uasset" SILENT=true
+[2018.02.07-21.47.31:074][932]LogSavePackage: Save=16.51ms
+[2018.02.07-21.47.31:074][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/floorEC828A014EE61EA2043138A4581D481F.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/floor.uasset'
+[2018.02.07-21.47.31:077][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/floor.uasset
+[2018.02.07-21.47.31:118][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Game/Warehouse/beems" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/beems.uasset" SILENT=true
+[2018.02.07-21.47.31:144][932]LogSavePackage: Save=14.90ms
+[2018.02.07-21.47.31:144][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/beems9557B1904D0B2FF79A696F956C6A8CDE.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/beems.uasset'
+[2018.02.07-21.47.31:147][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/beems.uasset
+[2018.02.07-21.47.31:185][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Game/Warehouse/x-beem" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/x-beem.uasset" SILENT=true
+[2018.02.07-21.47.31:205][932]LogSavePackage: Save=13.36ms
+[2018.02.07-21.47.31:205][932]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/x-beem60E7B1204F5E98A4860C29B537E58F6A.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/x-beem.uasset'
+[2018.02.07-21.47.31:207][932]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/x-beem.uasset
+[2018.02.07-21.48.52:563][866]LogSavePackage: Save=33.29ms
+[2018.02.07-21.48.52:563][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/beems0065A0054BA3BA0944833CB28DF38B0E.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/beems.uasset'
+[2018.02.07-21.48.52:578][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/beems.uasset
+[2018.02.07-21.48.52:659][866]LogSavePackage: Save=38.00ms
+[2018.02.07-21.48.52:659][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/floorBDBDAC28448E66DAA17E8C99A2747657.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset'
+[2018.02.07-21.48.52:667][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset
+[2018.02.07-21.48.52:724][866]LogSavePackage: Save=22.06ms
+[2018.02.07-21.48.52:724][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/roof43CE5A564B64CB2335D2639E9927B186.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/roof.uasset'
+[2018.02.07-21.48.52:729][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/roof.uasset
+[2018.02.07-21.48.52:801][866]LogSavePackage: Save=29.95ms
+[2018.02.07-21.48.52:801][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/walls37AB6C844839112E7E85888121F916FF.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/walls.uasset'
+[2018.02.07-21.48.52:808][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/walls.uasset
+[2018.02.07-21.48.52:868][866]LogSavePackage: Save=18.30ms
+[2018.02.07-21.48.52:868][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/x-beemD21A3300454DA8E4672FBBAAA7148458.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/x-beem.uasset'
+[2018.02.07-21.48.52:873][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/x-beem.uasset
+[2018.02.07-21.48.53:221][866]LogSavePackage: Save=14.63ms
+[2018.02.07-21.48.53:221][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/warehouse_19FB5F304C4A21B49CF42D72BF3D13DF76.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/warehouse_19.uasset'
+[2018.02.07-21.48.53:224][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/warehouse_19.uasset
+[2018.02.07-21.48.53:464][866]LogSavePackage: Save=103.86ms
+[2018.02.07-21.48.53:464][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/X_beem_base95EB8120479E556D531FFBABD079CBBA.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/X_beem_base.uasset'
+[2018.02.07-21.48.53:468][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/X_beem_base.uasset
+[2018.02.07-21.48.53:501][866]LogSavePackage: Save=21.87ms
+[2018.02.07-21.48.53:501][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/X_beem_ambient_occlusion8AA775234A86290B7D2187AAE89CB9AD.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/X_beem_ambient_occlusion.uasset'
+[2018.02.07-21.48.53:506][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/X_beem_ambient_occlusion.uasset
+[2018.02.07-21.48.53:569][866]LogSavePackage: Save=51.97ms
+[2018.02.07-21.48.53:569][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/X_beem_NormalAE9A7C20470A5B422BE4CDA0BC88B9C9.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/X_beem_Normal.uasset'
+[2018.02.07-21.48.53:573][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/X_beem_Normal.uasset
+[2018.02.07-21.48.53:632][866]LogSavePackage: Save=47.70ms
+[2018.02.07-21.48.53:632][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/X_beem_Metallic207A985E4D2E4BBF451F7BACDFE8251F.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/X_beem_Metallic.uasset'
+[2018.02.07-21.48.53:636][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/X_beem_Metallic.uasset
+[2018.02.07-21.48.53:695][866]LogSavePackage: Save=46.74ms
+[2018.02.07-21.48.53:695][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/beems_Normal4CDF94E44EC91CACF9E92CB0E78763B1.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/beems_Normal.uasset'
+[2018.02.07-21.48.53:699][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/beems_Normal.uasset
+[2018.02.07-21.48.53:732][866]LogSavePackage: Save=22.08ms
+[2018.02.07-21.48.53:732][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/beems_baseE7BA0C1E404E77C41229FD806CFEA9A6.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/beems_base.uasset'
+[2018.02.07-21.48.53:736][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/beems_base.uasset
+[2018.02.07-21.48.53:760][866]LogSavePackage: Save=11.29ms
+[2018.02.07-21.48.53:760][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/beems_ambient_occlusionEAA54382424406E81716D8909B9F1CD6.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/beems_ambient_occlusion.uasset'
+[2018.02.07-21.48.53:763][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/beems_ambient_occlusion.uasset
+[2018.02.07-21.48.53:795][866]LogSavePackage: Save=20.64ms
+[2018.02.07-21.48.53:795][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Floor_baseDD41A3B04DC435A9269C238DB6AC85DA.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Floor_base.uasset'
+[2018.02.07-21.48.53:799][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Floor_base.uasset
+[2018.02.07-21.48.53:834][866]LogSavePackage: Save=24.09ms
+[2018.02.07-21.48.53:834][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Floor_MetallicDBBD7A1D40C19D0B33C21B8FC5FE7BD6.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Floor_Metallic.uasset'
+[2018.02.07-21.48.53:838][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Floor_Metallic.uasset
+[2018.02.07-21.48.53:860][866]LogSavePackage: Save=9.75ms
+[2018.02.07-21.48.53:860][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Floor_ambient_occlusion80430BBD443B4521D31588953451F3A1.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Floor_ambient_occlusion.uasset'
+[2018.02.07-21.48.53:864][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Floor_ambient_occlusion.uasset
+[2018.02.07-21.48.53:910][866]LogSavePackage: Save=34.35ms
+[2018.02.07-21.48.53:910][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Floor_NormalEE86A6D64BDA76738640C589BCCB5FC2.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Floor_Normal.uasset'
+[2018.02.07-21.48.53:913][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Floor_Normal.uasset
+[2018.02.07-21.48.53:971][866]LogSavePackage: Save=46.10ms
+[2018.02.07-21.48.53:971][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/roof_MetallicA69D1EEB402D2E5C67977BAE2C78FD78.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/roof_Metallic.uasset'
+[2018.02.07-21.48.53:975][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/roof_Metallic.uasset
+[2018.02.07-21.48.54:025][866]LogSavePackage: Save=37.09ms
+[2018.02.07-21.48.54:025][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/roof_baseC500DC2B46BDFB6F14258997F462E184.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/roof_base.uasset'
+[2018.02.07-21.48.54:029][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/roof_base.uasset
+[2018.02.07-21.48.54:068][866]LogSavePackage: Save=27.41ms
+[2018.02.07-21.48.54:068][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/roof_NormalB887438A45DB3796CFA49B8A3CC7914E.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/roof_Normal.uasset'
+[2018.02.07-21.48.54:073][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/roof_Normal.uasset
+[2018.02.07-21.48.54:092][866]LogSavePackage: Save=5.12ms
+[2018.02.07-21.48.54:092][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Walls_base0DA430A140E77D4FF235739953FB03E9.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Walls_base.uasset'
+[2018.02.07-21.48.54:096][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Walls_base.uasset
+[2018.02.07-21.48.54:132][866]LogSavePackage: Save=23.81ms
+[2018.02.07-21.48.54:132][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Walls_ambient_occlusion5863AC6E4CDF0CA91AE6E19CC8F8036E.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Walls_ambient_occlusion.uasset'
+[2018.02.07-21.48.54:136][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Walls_ambient_occlusion.uasset
+[2018.02.07-21.48.54:211][866]LogSavePackage: Save=61.88ms
+[2018.02.07-21.48.54:211][866]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Walls_Normal7B0049DD49ABE3E8E4AEEB92AAA0F3C7.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Walls_Normal.uasset'
+[2018.02.07-21.48.54:218][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/Textures/Walls_Normal.uasset
+[2018.02.07-21.49.09:632][493]LogRenderer: Reallocating scene render targets to support 1404x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.07-21.51.10:618][330]LogSavePackage: Save=60.66ms
+[2018.02.07-21.51.10:618][330]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_base-crate1_BaseColE399023045A95DD85277B0A6AFB9F561.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_base-crate1_BaseColor.uasset'
+[2018.02.07-21.51.10:627][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_base-crate1_BaseColor.uasset
+[2018.02.07-21.51.10:660][330]LogSavePackage: Save=17.47ms
+[2018.02.07-21.51.10:660][330]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_base-crate1_OcclusiF02FA22B44ECF00FCED2C28C4103F2B7.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_base-crate1_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.51.10:663][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_base-crate1_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.51.10:695][330]LogSavePackage: Save=19.68ms
+[2018.02.07-21.51.10:695][330]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_base-crate1_Normal75557983426B9805045EA785C53552AF.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_base-crate1_Normal.uasset'
+[2018.02.07-21.51.10:698][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_base-crate1_Normal.uasset
+[2018.02.07-21.51.10:728][330]LogSavePackage: Save=17.86ms
+[2018.02.07-21.51.10:728][330]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_lid-crate1_Normal5479E78D443B8A23110D7F9377D438CB.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_lid-crate1_Normal.uasset'
+[2018.02.07-21.51.10:731][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_lid-crate1_Normal.uasset
+[2018.02.07-21.51.10:769][330]LogSavePackage: Save=26.51ms
+[2018.02.07-21.51.10:769][330]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_lid-crate1_BaseColoC09DD5E944467C779D399282D4382E4A.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_lid-crate1_BaseColor.uasset'
+[2018.02.07-21.51.10:773][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_lid-crate1_BaseColor.uasset
+[2018.02.07-21.51.10:806][330]LogSavePackage: Save=16.68ms
+[2018.02.07-21.51.10:806][330]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_lid-crate1_OcclusioC0DBD9C0489280371E48849C6F79F5DF.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_lid-crate1_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.51.10:810][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_lid-crate1_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.51.10:828][330]LogSavePackage: Save=7.05ms
+[2018.02.07-21.51.10:828][330]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_base-crate1_Emissiv8A07FEF84CB40293FF9F0588A677640B.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_base-crate1_Emissive.uasset'
+[2018.02.07-21.51.10:832][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/textures/tech_crate_1_base-crate1_Emissive.uasset
+[2018.02.07-21.51.11:182][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Crates/crate1/test_crate2" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/test_crate2.uasset" SILENT=true
+[2018.02.07-21.51.11:206][330]LogSavePackage: Save=16.67ms
+[2018.02.07-21.51.11:206][330]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/test_crate21675C63542515C1F8FA2E4960BA0C231.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/test_crate2.uasset'
+[2018.02.07-21.51.11:208][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/test_crate2.uasset
+[2018.02.07-21.51.11:237][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Crates/crate1/Lid1" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/Lid1.uasset" SILENT=true
+[2018.02.07-21.51.11:273][330]LogSavePackage: Save=24.06ms
+[2018.02.07-21.51.11:273][330]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Lid1B5B40A8D4689C1AE8F32698FD5C2C57D.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/Lid1.uasset'
+[2018.02.07-21.51.11:277][330]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/Lid1.uasset
+[2018.02.07-21.51.49:265][241]LogSavePackage: Save=15.70ms
+[2018.02.07-21.51.49:265][241]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Lid147EA6B1F43CE51DD808055AB85A55B97.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/Lid1.uasset'
+[2018.02.07-21.51.49:269][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/Lid1.uasset
+[2018.02.07-21.51.49:319][241]LogSavePackage: Save=16.71ms
+[2018.02.07-21.51.49:319][241]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/test_crate2CA4C8C2A465051ECF7A6B9BCF253423D.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/test_crate2.uasset'
+[2018.02.07-21.51.49:323][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/test_crate2.uasset
+[2018.02.07-21.51.49:493][241]LogSavePackage: Save=12.14ms
+[2018.02.07-21.51.49:493][241]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1-ue_Lid12DCE68F84A5C3BAA61DB9CA8E55EFFBC.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/tech_crate_1-ue_Lid1.uasset'
+[2018.02.07-21.51.49:496][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/tech_crate_1-ue_Lid1.uasset
+[2018.02.07-21.51.49:539][241]LogSavePackage: Save=13.64ms
+[2018.02.07-21.51.49:539][241]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1-ue_test_crate240CE8A724FF2BB23D38F29B28FFACFD3.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/tech_crate_1-ue_test_crate2.uasset'
+[2018.02.07-21.51.49:541][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/tech_crate_1-ue_test_crate2.uasset
+[2018.02.07-21.51.49:639][241]LogSavePackage: Save=13.97ms
+[2018.02.07-21.51.49:639][241]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_base-crate1_EmissivF54D6BF5436ECDFB90E0FB97C8E1BD17.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_base-crate1_Emissive.uasset'
+[2018.02.07-21.51.49:647][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_base-crate1_Emissive.uasset
+[2018.02.07-21.51.49:703][241]LogSavePackage: Save=40.24ms
+[2018.02.07-21.51.49:703][241]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_lid-crate1_OcclusioA76690034C356C3CA3B2D6B1360C6F96.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_lid-crate1_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.51.49:710][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_lid-crate1_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.51.49:791][241]LogSavePackage: Save=64.54ms
+[2018.02.07-21.51.49:791][241]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_lid-crate1_BaseColoE2A86A4945C7C188A1D9BBB3F189FF20.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_lid-crate1_BaseColor.uasset'
+[2018.02.07-21.51.49:797][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_lid-crate1_BaseColor.uasset
+[2018.02.07-21.51.49:834][241]LogSavePackage: Save=23.84ms
+[2018.02.07-21.51.49:834][241]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_lid-crate1_NormalD18CA0AE4B9DFE5FBCB5CCA4F0826A04.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_lid-crate1_Normal.uasset'
+[2018.02.07-21.51.49:839][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_lid-crate1_Normal.uasset
+[2018.02.07-21.51.49:878][241]LogSavePackage: Save=23.13ms
+[2018.02.07-21.51.49:878][241]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_base-crate1_Normal05038359484C55B2AE6A709447C79C77.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_base-crate1_Normal.uasset'
+[2018.02.07-21.51.49:883][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_base-crate1_Normal.uasset
+[2018.02.07-21.51.49:918][241]LogSavePackage: Save=22.29ms
+[2018.02.07-21.51.49:918][241]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_base-crate1_Occlusi4603C1294DF41D04E011C788962CE762.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_base-crate1_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.51.49:922][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_base-crate1_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.51.49:979][241]LogSavePackage: Save=42.33ms
+[2018.02.07-21.51.49:979][241]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/tech_crate_1_base-crate1_BaseCol745DC610453F827A8F355EAC7ABA2801.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_base-crate1_BaseColor.uasset'
+[2018.02.07-21.51.49:982][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate1/materials/textures/tech_crate_1_base-crate1_BaseColor.uasset
+[2018.02.07-21.55.02:896][794]LogSavePackage: Save=75.81ms
+[2018.02.07-21.55.02:896][794]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/crate2_Crate2_Normal3844D36144E7343EB624FEA2B9C0A755.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/Textures/crate2_Crate2_Normal.uasset'
+[2018.02.07-21.55.02:904][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/Textures/crate2_Crate2_Normal.uasset
+[2018.02.07-21.55.02:929][794]LogSavePackage: Save=12.02ms
+[2018.02.07-21.55.02:929][794]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/crate2_Crate2_EmissionE699CE4B4F331FF5C4EAB7B819EDEDB2.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/Textures/crate2_Crate2_Emission.uasset'
+[2018.02.07-21.55.02:933][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/Textures/crate2_Crate2_Emission.uasset
+[2018.02.07-21.55.02:967][794]LogSavePackage: Save=19.83ms
+[2018.02.07-21.55.02:967][794]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/crate2_Crate2AFF009894CD961176EE937B5B95B857F.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/Textures/crate2_Crate2.uasset'
+[2018.02.07-21.55.02:971][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/Textures/crate2_Crate2.uasset
+[2018.02.07-21.55.03:032][794]LogSavePackage: Save=46.38ms
+[2018.02.07-21.55.03:032][794]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/crate2_Crate2_OcclusionRoughness3C9AE90449653A1E126D9AB7C5E645D6.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/Textures/crate2_Crate2_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.55.03:036][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/Textures/crate2_Crate2_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.55.03:272][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Crates/crate2/crate2m" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/crate2m.uasset" SILENT=true
+[2018.02.07-21.55.03:298][794]LogSavePackage: Save=18.85ms
+[2018.02.07-21.55.03:298][794]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/crate2mF64F98B347E29C0B7C2172AE595D9C4E.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/crate2m.uasset'
+[2018.02.07-21.55.03:301][794]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/crate2m.uasset
+[2018.02.07-21.55.51:429][505]LogSavePackage: Save=16.39ms
+[2018.02.07-21.55.51:429][505]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/crate2m5C24379F496BC5B33C6805A7C88CDDB0.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/materials/crate2m.uasset'
+[2018.02.07-21.55.51:433][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/materials/crate2m.uasset
+[2018.02.07-21.55.51:577][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Crates/crate2/crate-us" FILE="../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/crate-us.uasset" SILENT=true
+[2018.02.07-21.55.51:598][505]LogSavePackage: Save=13.27ms
+[2018.02.07-21.55.51:598][505]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/crate-us13E7419F40760C6E35D57A90CCBD1729.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/crate-us.uasset'
+[2018.02.07-21.55.51:600][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/crate-us.uasset
+[2018.02.07-21.55.51:722][505]LogSavePackage: Save=34.07ms
+[2018.02.07-21.55.51:722][505]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/crate2_Crate2B40CB3374BADD2A2C291858F99AD800D.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/materials/Textures/crate2_Crate2.uasset'
+[2018.02.07-21.55.51:726][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/materials/Textures/crate2_Crate2.uasset
+[2018.02.07-21.55.51:762][505]LogSavePackage: Save=24.53ms
+[2018.02.07-21.55.51:762][505]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/crate2_Crate2_Emission66F749544103C0180A642C8F93BA8745.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/materials/Textures/crate2_Crate2_Emission.uasset'
+[2018.02.07-21.55.51:766][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/materials/Textures/crate2_Crate2_Emission.uasset
+[2018.02.07-21.55.51:859][505]LogSavePackage: Save=65.73ms
+[2018.02.07-21.55.51:859][505]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/crate2_Crate2_NormalB8B5C7314F47D66FA99C0996CA3B2219.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/materials/Textures/crate2_Crate2_Normal.uasset'
+[2018.02.07-21.55.51:867][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/materials/Textures/crate2_Crate2_Normal.uasset
+[2018.02.07-21.55.51:969][505]LogSavePackage: Save=79.72ms
+[2018.02.07-21.55.51:969][505]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/crate2_Crate2_OcclusionRoughness9BA5C8E64AADFDC6532A1192C892F3A1.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/materials/Textures/crate2_Crate2_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.55.51:973][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Crates/crate2/materials/Textures/crate2_Crate2_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.56.31:230][101]LogSavePackage: Save=14.62ms
+[2018.02.07-21.56.31:230][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_baral_low028242484ECF15E44E00AFAA268F1A22.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_baral_low.uasset'
+[2018.02.07-21.56.31:234][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_baral_low.uasset
+[2018.02.07-21.56.31:267][101]LogSavePackage: Save=14.18ms
+[2018.02.07-21.56.31:267][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_baral_low_Emis872EBC994703575DF9B0CAAFEA036084.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_baral_low_Emissive.uasset'
+[2018.02.07-21.56.31:271][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_baral_low_Emissive.uasset
+[2018.02.07-21.56.31:352][101]LogSavePackage: Save=56.09ms
+[2018.02.07-21.56.31:352][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_baral_low_Norm88E358684CA1BB37302E9EB8EC895B2F.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_baral_low_Normal.uasset'
+[2018.02.07-21.56.31:356][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_baral_low_Normal.uasset
+[2018.02.07-21.56.31:400][101]LogSavePackage: Save=33.34ms
+[2018.02.07-21.56.31:400][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_baral_low_Occl7611F3E94846FC0ABE31C09B80A742F4.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_baral_low_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.56.31:404][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_baral_low_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.56.31:435][101]LogSavePackage: Save=18.82ms
+[2018.02.07-21.56.31:435][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_clip_low1EE28BF547134A43B38F23A6F6CD9FA1.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_clip_low.uasset'
+[2018.02.07-21.56.31:438][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_clip_low.uasset
+[2018.02.07-21.56.31:463][101]LogSavePackage: Save=15.93ms
+[2018.02.07-21.56.31:463][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_clip_low_EmissCEF1D57B40B21FF43BB2DF8DAA61810B.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_clip_low_Emissive.uasset'
+[2018.02.07-21.56.31:467][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_clip_low_Emissive.uasset
+[2018.02.07-21.56.31:524][101]LogSavePackage: Save=43.32ms
+[2018.02.07-21.56.31:524][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_clip_low_Norma69BD042043626E1840E2EBBCC0578C28.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_clip_low_Normal.uasset'
+[2018.02.07-21.56.31:527][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_clip_low_Normal.uasset
+[2018.02.07-21.56.31:560][101]LogSavePackage: Save=21.86ms
+[2018.02.07-21.56.31:560][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_clip_low_Occlu1ECC45894806A3554AB7059B107614B9.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_clip_low_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.56.31:564][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_clip_low_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.56.31:601][101]LogSavePackage: Save=14.83ms
+[2018.02.07-21.56.31:601][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_end_lowAC5BF40E4181ECF51FA4CFBCCD434770.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_end_low.uasset'
+[2018.02.07-21.56.31:604][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_end_low.uasset
+[2018.02.07-21.56.31:626][101]LogSavePackage: Save=13.07ms
+[2018.02.07-21.56.31:626][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_end_low_Emissi985172C548905FAFBB147F9FA2FF2975.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_end_low_Emissive.uasset'
+[2018.02.07-21.56.31:630][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_end_low_Emissive.uasset
+[2018.02.07-21.56.31:682][101]LogSavePackage: Save=39.47ms
+[2018.02.07-21.56.31:682][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_end_low_NormalAC1ED14847E952E8CFF6D8ADCB0FF8A7.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_end_low_Normal.uasset'
+[2018.02.07-21.56.31:685][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_end_low_Normal.uasset
+[2018.02.07-21.56.31:722][101]LogSavePackage: Save=25.83ms
+[2018.02.07-21.56.31:722][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_end_low_Occlus5696CE9D45FEFE005A3E688E6C9C48A0.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_end_low_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.56.31:727][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_end_low_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.56.31:765][101]LogSavePackage: Save=26.87ms
+[2018.02.07-21.56.31:765][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_m_lowE6186B5E425A12871B8021A7C74C232D.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_m_low.uasset'
+[2018.02.07-21.56.31:769][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_m_low.uasset
+[2018.02.07-21.56.31:784][101]LogSavePackage: Save=6.86ms
+[2018.02.07-21.56.31:784][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_m_low_Emissive46047AFB4A8FB45AD8D0529A1AF77F9E.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_m_low_Emissive.uasset'
+[2018.02.07-21.56.31:788][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_m_low_Emissive.uasset
+[2018.02.07-21.56.31:873][101]LogSavePackage: Save=71.68ms
+[2018.02.07-21.56.31:873][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_m_low_Normal566E3C6E4C89490F54EB91BFA18CA6D2.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_m_low_Normal.uasset'
+[2018.02.07-21.56.31:876][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_m_low_Normal.uasset
+[2018.02.07-21.56.31:948][101]LogSavePackage: Save=59.96ms
+[2018.02.07-21.56.31:948][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Laser-m_low_Laser_m_low_Occlusio74FEF9FE4111F25B6AC18ABCD6AA7421.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_m_low_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.56.31:952][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Textures/Laser-m_low_Laser_m_low_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.56.32:664][101]LogSavePackage: Save=15.43ms
+[2018.02.07-21.56.32:664][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/barrel6143AA1B416EB14A5F870888D1EFAFFF.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/barrel.uasset'
+[2018.02.07-21.56.32:667][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/barrel.uasset
+[2018.02.07-21.56.32:709][101]LogSavePackage: Save=15.78ms
+[2018.02.07-21.56.32:709][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Clip5C5708FC4AE66B2A81D5108F1377C446.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Clip.uasset'
+[2018.02.07-21.56.32:711][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/Clip.uasset
+[2018.02.07-21.56.32:750][101]LogSavePackage: Save=16.11ms
+[2018.02.07-21.56.32:750][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/end9D7D426E4D618FA14888D79DFD6171D9.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/end.uasset'
+[2018.02.07-21.56.32:753][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/end.uasset
+[2018.02.07-21.56.32:827][101]LogSavePackage: Save=24.96ms
+[2018.02.07-21.56.32:827][101]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/laser-1body0CE49DB3419FE1D12B6268B9BDB03000.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/laser-1body.uasset'
+[2018.02.07-21.56.32:829][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/splatter/Materials/laser-1body.uasset
+[2018.02.07-21.57.49:742][169]LogSavePackage: Save=19.91ms
+[2018.02.07-21.57.49:742][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cm_cells_BaseColorFFB1463F4EFA3BB68E1D72A0E1D88244.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_cells_BaseColor.uasset'
+[2018.02.07-21.57.49:746][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_cells_BaseColor.uasset
+[2018.02.07-21.57.49:855][169]LogSavePackage: Save=80.36ms
+[2018.02.07-21.57.49:855][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cm_cells_Normal3FE28A954D1D0829E57D1AA06B6D2FE6.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_cells_Normal.uasset'
+[2018.02.07-21.57.49:859][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_cells_Normal.uasset
+[2018.02.07-21.57.49:932][169]LogSavePackage: Save=59.71ms
+[2018.02.07-21.57.49:932][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cm_cells_OcclusionRoughnessMeDA81F24341FC5B15A45FE4834242F303.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_cells_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.57.49:936][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_cells_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.57.49:968][169]LogSavePackage: Save=15.69ms
+[2018.02.07-21.57.49:968][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cm_rings_BaseColorB93BA21B4908C14E9ABF6C9E23F54F86.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_rings_BaseColor.uasset'
+[2018.02.07-21.57.49:972][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_rings_BaseColor.uasset
+[2018.02.07-21.57.50:065][169]LogSavePackage: Save=80.29ms
+[2018.02.07-21.57.50:065][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cm_rings_Normal471104404E44108BF5F0DF989C8677C5.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_rings_Normal.uasset'
+[2018.02.07-21.57.50:071][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_rings_Normal.uasset
+[2018.02.07-21.57.50:173][169]LogSavePackage: Save=89.20ms
+[2018.02.07-21.57.50:173][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cm_rings_OcclusionRoughnessMe9EB72F4E4D66A084425D0BAA19E92F12.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_rings_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.57.50:176][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cm_rings_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.57.50:202][169]LogSavePackage: Save=13.64ms
+[2018.02.07-21.57.50:202][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_amo_BaseColor2E99F84446E21D9B528220996EE75DC0.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_amo_BaseColor.uasset'
+[2018.02.07-21.57.50:206][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_amo_BaseColor.uasset
+[2018.02.07-21.57.50:226][169]LogSavePackage: Save=11.39ms
+[2018.02.07-21.57.50:227][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_amo_Emissive386170A84CE64F5D460EAD8AE5E901ED.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_amo_Emissive.uasset'
+[2018.02.07-21.57.50:230][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_amo_Emissive.uasset
+[2018.02.07-21.57.50:285][169]LogSavePackage: Save=43.08ms
+[2018.02.07-21.57.50:285][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_amo_Normal1999527F4CE97C221F562C9C4D6E6756.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_amo_Normal.uasset'
+[2018.02.07-21.57.50:288][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_amo_Normal.uasset
+[2018.02.07-21.57.50:344][169]LogSavePackage: Save=45.14ms
+[2018.02.07-21.57.50:344][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_amo_OcclusionRoughnessMetaACFA4E84460AD622D32693BD27D80FB1.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_amo_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.57.50:348][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_amo_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.57.50:384][169]LogSavePackage: Save=24.06ms
+[2018.02.07-21.57.50:384][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_bars_BaseColorC6E2E3D64A95F3596EA2D59032F75597.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_bars_BaseColor.uasset'
+[2018.02.07-21.57.50:387][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_bars_BaseColor.uasset
+[2018.02.07-21.57.50:427][169]LogSavePackage: Save=28.56ms
+[2018.02.07-21.57.50:427][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_bars_Normal317BF57B4AF95BBA0B896EB7AF509E90.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_bars_Normal.uasset'
+[2018.02.07-21.57.50:431][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_bars_Normal.uasset
+[2018.02.07-21.57.50:483][169]LogSavePackage: Save=40.80ms
+[2018.02.07-21.57.50:483][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_bars_OcclusionRoughnessMetD681C0C045405899103C6CB6F24B343C.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_bars_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.57.50:487][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_bars_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.57.50:509][169]LogSavePackage: Save=10.48ms
+[2018.02.07-21.57.50:509][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_BaseColor6B8A360A468B10ECE4AB118A7286EDD4.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor.uasset'
+[2018.02.07-21.57.50:512][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor.uasset
+[2018.02.07-21.57.50:530][169]LogSavePackage: Save=8.89ms
+[2018.02.07-21.57.50:530][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_Emissive41CA51AB4E274BE53D9E75AC453CCA33.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emissive.uasset'
+[2018.02.07-21.57.50:533][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emissive.uasset
+[2018.02.07-21.57.50:601][169]LogSavePackage: Save=55.67ms
+[2018.02.07-21.57.50:602][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_Normal2F52D36C478FB585B3362B8EB6FDE2BE.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal.uasset'
+[2018.02.07-21.57.50:605][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal.uasset
+[2018.02.07-21.57.50:676][169]LogSavePackage: Save=56.38ms
+[2018.02.07-21.57.50:676][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_OcclusionRoughnessMet8A5DE0F84E8A2332188639BCEB3A498F.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.57.50:679][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.57.50:736][169]LogSavePackage: Save=45.31ms
+[2018.02.07-21.57.50:736][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_core_BaseColorC8A95AAE4E2559F7E26469B643B06DD6.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_core_BaseColor.uasset'
+[2018.02.07-21.57.50:739][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_core_BaseColor.uasset
+[2018.02.07-21.57.50:781][169]LogSavePackage: Save=29.38ms
+[2018.02.07-21.57.50:781][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_core_Normal9ECA174F43A4C303CEBC86AC2C989D96.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_core_Normal.uasset'
+[2018.02.07-21.57.50:784][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_core_Normal.uasset
+[2018.02.07-21.57.50:842][169]LogSavePackage: Save=46.38ms
+[2018.02.07-21.57.50:842][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_core_OcclusionRoughnessMet576AE44142748FE5E016C7A80E531B6E.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_core_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.57.50:845][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_core_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.57.50:863][169]LogSavePackage: Save=4.98ms
+[2018.02.07-21.57.50:863][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_power_BaseColor9104BC0E417A0BEA9E891DA296332122.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_power_BaseColor.uasset'
+[2018.02.07-21.57.50:866][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_power_BaseColor.uasset
+[2018.02.07-21.57.50:884][169]LogSavePackage: Save=5.78ms
+[2018.02.07-21.57.50:884][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_power_EmissiveEE0B01F7494C67E1F10450999EFC9F52.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_power_Emissive.uasset'
+[2018.02.07-21.57.50:887][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_power_Emissive.uasset
+[2018.02.07-21.57.50:933][169]LogSavePackage: Save=32.63ms
+[2018.02.07-21.57.50:933][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_power_Normal82EDDB5B4DEB43E6763F71B722699E92.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_power_Normal.uasset'
+[2018.02.07-21.57.50:937][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_power_Normal.uasset
+[2018.02.07-21.57.50:993][169]LogSavePackage: Save=40.90ms
+[2018.02.07-21.57.50:993][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_power_OcclusionRoughnessMe327877F2446A53D086D1F9BDA1EEDEF2.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_power_OcclusionRoughnessMetallic.uasset'
+[2018.02.07-21.57.50:996][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_power_OcclusionRoughnessMetallic.uasset
+[2018.02.07-21.57.51:969][169]LogSavePackage: Save=14.79ms
+[2018.02.07-21.57.51:969][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/cells10EAA6A64D9451396F830982CFAAA469.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/cells.uasset'
+[2018.02.07-21.57.51:971][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/cells.uasset
+[2018.02.07-21.57.52:015][169]LogSavePackage: Save=14.90ms
+[2018.02.07-21.57.52:015][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/ringsE4FB7F1547B7302CC861798869FD4220.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/rings.uasset'
+[2018.02.07-21.57.52:018][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/rings.uasset
+[2018.02.07-21.57.52:066][169]LogSavePackage: Save=15.76ms
+[2018.02.07-21.57.52:066][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/amo-can600169C04E39B95B5085DF8F7A95B8A3.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/amo-can.uasset'
+[2018.02.07-21.57.52:068][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/amo-can.uasset
+[2018.02.07-21.57.52:114][169]LogSavePackage: Save=14.73ms
+[2018.02.07-21.57.52:114][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/barsD0D9A2C94F119754FEDF17969DE60727.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/bars.uasset'
+[2018.02.07-21.57.52:116][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/bars.uasset
+[2018.02.07-21.57.52:161][169]LogSavePackage: Save=15.89ms
+[2018.02.07-21.57.52:161][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/body47CE0BD54DD9D84994049FA0845D8260.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/body.uasset'
+[2018.02.07-21.57.52:163][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/body.uasset
+[2018.02.07-21.57.52:217][169]LogSavePackage: Save=22.47ms
+[2018.02.07-21.57.52:217][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/coreEC1AD089494D2ED7AA0FC5916CC2EAA3.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/core.uasset'
+[2018.02.07-21.57.52:221][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/core.uasset
+[2018.02.07-21.57.52:290][169]LogSavePackage: Save=26.64ms
+[2018.02.07-21.57.52:290][169]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/power75423AFB480EBAD37A972793C1D802B8.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/power.uasset'
+[2018.02.07-21.57.52:295][169]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/power.uasset
+[2018.02.07-21.58.15:426][904]Cmd: QUIT_EDITOR
+[2018.02.07-21.58.15:457][904]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.07-21.58.15:470][904]LogExit: Preparing to exit.
+[2018.02.07-21.58.16:118][904]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/' was aborted.
+[2018.02.07-21.58.16:140][904]LogExit: Editor shut down
+[2018.02.07-21.58.16:149][904]LogExit: Transaction tracking system shut down
+[2018.02.07-21.58.16:410][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.07-21.58.16:410][904]LogDirectoryWatcher: A directory notification for '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/' was aborted.
+[2018.02.07-21.58.16:410][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.07-21.58.16:410][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.07-21.58.16:410][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.07-21.58.16:411][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.07-21.58.16:411][904]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.07-21.58.16:557][904]LogExit: Object subsystem successfully closed.
+[2018.02.07-21.58.16:596][904]LogD3D11RHI: Shutdown
+[2018.02.07-21.58.16:596][904]LogD3D11RHI: CleanupD3DDevice
+[2018.02.07-21.58.16:601][904]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.07-21.58.16:651][904]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (554)
+[2018.02.07-21.58.16:651][904]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.02.07-21.58.16:651][904]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.02.07-21.58.16:651][904]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.02.07-21.58.16:651][904]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.02.07-21.58.16:651][904]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.07-21.58.16:661][904]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.02.07-21.58.16:661][904]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.02.07-21.58.16:661][904]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.02.07-21.58.16:661][904]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Collections/' was aborted.
+[2018.02.07-21.58.16:661][904]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Developers/USER/Collections/' was aborted.
+[2018.02.07-21.58.16:662][904]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Collections/' was aborted.
+[2018.02.07-21.58.16:662][904]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.02.07-21.58.16:662][904]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.07-21.58.16:662][904]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.07-21.58.16:662][904]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.07-21.58.16:662][904]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.07-21.58.16:663][904]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.07-21.58.16:663][904]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.07-21.58.16:663][904]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.07-21.58.16:663][904]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.07-21.58.16:663][904]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.07-21.58.16:663][904]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.07-21.58.16:663][904]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.07-21.58.16:663][904]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.07-21.58.16:663][904]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.07-21.58.16:663][904]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.07-21.58.16:663][904]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.07-21.58.16:664][904]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.07-21.58.16:665][904]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.07-21.58.16:665][904]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.07-21.58.16:665][904]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.07-21.58.16:665][904]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.07-21.58.16:665][904]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.07-21.58.16:665][904]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.07-21.58.16:665][904]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.07-21.58.16:665][904]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.07-21.58.16:665][904]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.07-21.58.16:666][904]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.07-21.58.16:666][904]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.07-21.58.16:666][904]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.07-21.58.16:672][904]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.07-21.58.16:673][904]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.07-21.58.16:673][904]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.07-21.58.16:673][904]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.07-21.58.16:673][904]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.07-21.58.16:673][904]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.07-21.58.16:673][904]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.07-21.58.16:673][904]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.07-21.58.16:673][904]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.07-21.58.16:673][904]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.07-21.58.16:673][904]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.07-21.58.16:673][904]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.07-21.58.16:727][904]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.07-21.58.16:727][904]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.07-21.58.16:727][904]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.07-21.58.16:727][904]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.07-21.58.16:727][904]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.07-21.58.16:727][904]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.07-21.58.16:727][904]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.07-21.58.16:728][904]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.07-21.58.16:728][904]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.07-21.58.16:728][904]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.07-21.58.16:728][904]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.07-21.58.16:728][904]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.07-21.58.16:729][904]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.07-21.58.16:730][904]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.07-21.58.16:730][904]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.02.07-21.58.16:945][904]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.02.07-21.58.16:945][904]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.02.07-21.58.16:945][904]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.02.07-21.58.16:945][904]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.02.07-21.58.16:945][904]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.02.07-21.58.16:945][904]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.02.07-21.58.16:945][904]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.02.07-21.58.16:946][904]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.02.07-21.58.16:947][904]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.02.07-21.58.16:947][904]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.02.07-21.58.16:947][904]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.02.07-21.58.16:947][904]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.02.07-21.58.16:948][904]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.02.07-21.58.16:948][904]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.02.07-21.58.16:948][904]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.02.07-21.58.16:948][904]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Binaries/Win64' was aborted.
+[2018.02.07-21.58.16:949][904]LogModuleManager: Shutting down and abandoning module TimeWar1 (270)
+[2018.02.07-21.58.16:949][904]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.07-21.58.16:949][904]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.07-21.58.16:949][904]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.07-21.58.16:949][904]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.07-21.58.16:949][904]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.07-21.58.16:949][904]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.07-21.58.16:950][904]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.07-21.58.16:950][904]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.07-21.58.17:050][904]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.07-21.58.17:150][904]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.07-21.58.17:150][904]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.07-21.58.17:150][904]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.07-21.58.17:150][904]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.07-21.58.17:151][904]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.07-21.58.17:151][904]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.07-21.58.17:153][904]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.07-21.58.17:153][904]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.07-21.58.17:153][904]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.07-21.58.17:153][904]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.07-21.58.17:153][904]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.07-21.58.17:153][904]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.07-21.58.17:153][904]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.07-21.58.17:153][904]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.07-21.58.17:154][904]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.07-21.58.17:154][904]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.07-21.58.17:160][904]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.07-21.58.17:160][904]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.07-21.58.17:160][904]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.07-21.58.17:161][904]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.07-21.58.17:161][904]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.07-21.58.17:161][904]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.07-21.58.17:161][904]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.07-21.58.17:161][904]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.07-21.58.17:161][904]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.07-21.58.17:161][904]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.07-21.58.17:161][904]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.07-21.58.17:161][904]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.07-21.58.17:161][904]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.07-21.58.17:161][904]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.07-21.58.17:162][904]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.07-21.58.17:162][904]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.07-21.58.17:169][904]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.07-21.58.17:169][904]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.07-21.58.17:169][904]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.07-21.58.17:169][904]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.07-21.58.17:169][904]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.07-21.58.17:169][904]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.07-21.58.17:169][904]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.07-21.58.17:169][904]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.07-21.58.17:172][904]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.07-21.58.17:172][904]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.07-21.58.17:172][904]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.07-21.58.17:172][904]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.07-21.58.17:172][904]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.07-21.58.17:172][904]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.07-21.58.17:172][904]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.07-21.58.17:172][904]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.07-21.58.17:172][904]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.07-21.58.17:181][904]LogDerivedDataCache: Shutdown
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.07-21.58.17:181][904]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.07-21.58.17:182][904]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.07-21.58.17:183][904]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.07-21.58.17:183][904]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.07-21.58.17:183][904]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEF0A9414-4167-0494-31D5-A68F4850DB2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=ec799bd94a0663e17561c09537540a5d%7C00072fce3f5746b4bd1c3dbe4d5b20b6%7C802ca7f4-3e19-4227-a56d-2dc34c402533&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.07-21.58.17:211][904]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.07-21.58.17:214][904]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.07-21.58.17:214][904]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.07-21.58.17:214][904]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.07-21.58.17:214][904]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.07-21.58.17:214][904]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.07-21.58.17:215][904]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.07-21.58.17:215][904]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.07-21.58.17:216][904]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.07-21.58.17:216][904]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.07-21.58.17:216][904]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.07-21.58.17:216][904]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.07-21.58.17:216][904]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.07-21.58.17:216][904]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.07-21.58.17:217][904]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.07-21.58.17:217][904]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.07-21.58.17:217][904]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.07-21.58.17:217][904]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.07-21.58.17:217][904]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.07-21.58.17:227][904]LogExit: Exiting.
+[2018.02.07-21.58.17:246][904]Log file closed, 02/07/18 13:58:17
