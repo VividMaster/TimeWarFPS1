@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TimeWar1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\GitHub\TimeWar1\TimeWarFPS1\TimeWar1\Intermediate\Build\Win64\UE4Editor\Development\TimeWar1\TimeWar1.cpp.obj"
+"D:\GitHub\TimeWar1\TimeWarFPS1\TimeWar1\Intermediate\Build\Win64\UE4Editor\Development\TimeWar1\TimeWar1GameModeBase.cpp.obj"
+"D:\GitHub\TimeWar1\TimeWarFPS1\TimeWar1\Intermediate\Build\Win64\UE4Editor\Development\TimeWar1\TimeWar1.init.gen.cpp.obj"
+"D:\GitHub\TimeWar1\TimeWarFPS1\TimeWar1\Intermediate\Build\Win64\UE4Editor\Development\TimeWar1\TimeWar1GameModeBase.gen.cpp.obj"
+"D:\UE4\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\TimeWar1\PCLaunch.rc.res"
+"D:\UE4\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\GitHub\TimeWar1\TimeWarFPS1\TimeWar1\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-TimeWar1.lib"
