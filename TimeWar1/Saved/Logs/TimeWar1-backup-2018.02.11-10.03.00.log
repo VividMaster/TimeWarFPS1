@@ -1,0 +1,1160 @@
+﻿Log file open, 02/10/18 18:22:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TimeWar1
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1937564983) SRandInit(-1937564983).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.732931
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Binaries/Win64/UE4Editor-TimeWar1.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.11-02.22.18:522][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.11-02.22.18:522][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.11-02.22.18:581][  0]LogInit: Computer: NOAH-DESKTOP
+[2018.02.11-02.22.18:581][  0]LogInit: User: USER
+[2018.02.11-02.22.18:581][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.02.11-02.22.18:581][  0]LogInit: High frequency timer resolution =3.222656 MHz
+[2018.02.11-02.22.18:582][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2018.02.11-02.22.18:582][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.11-02.22.18:582][  0]LogMemory: Process Physical Memory: 273.66 MB used, 273.66 MB peak
+[2018.02.11-02.22.18:582][  0]LogMemory: Process Virtual Memory: 270.47 MB used, 270.47 MB peak
+[2018.02.11-02.22.18:582][  0]LogMemory: Physical Memory: 6655.78 MB used,  58781.81 MB free, 65437.59 MB total
+[2018.02.11-02.22.18:582][  0]LogMemory: Virtual Memory: 649.74 MB used,  58781.81 MB free, 134217728.00 MB total
+[2018.02.11-02.22.19:284][  0]LogInit: Using OS detected language (en-US).
+[2018.02.11-02.22.19:284][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.11-02.22.19:323][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.11-02.22.19:770][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.11-02.22.20:352][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.11-02.22.20:411][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2018.02.11-02.22.20:411][  0]LogD3D11RHI:       4062/0/32718 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.11-02.22.20:413][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.11-02.22.20:413][  0]LogD3D11RHI:       0/0/32718 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.11-02.22.20:413][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.11-02.22.20:417][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.11-02.22.20:417][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.11-02.22.20:417][  0]LogWindows: EnumDisplayDevices:
+[2018.02.11-02.22.20:417][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2018.02.11-02.22.20:417][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.02.11-02.22.20:417][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.02.11-02.22.20:417][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2018.02.11-02.22.20:417][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.02.11-02.22.20:417][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2018.02.11-02.22.20:418][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.02.11-02.22.20:418][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.02.11-02.22.20:418][  0]LogRHI: Texture pool is 2843 MB (70% of 4062 MB)
+[2018.02.11-02.22.20:458][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.11-02.22.20:481][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.11-02.22.20:487][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Intermediate/Shaders/WorkingDirectory/12160/).
+[2018.02.11-02.22.20:487][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/USER/AppData/Local/Temp/UnrealShaderWorkingDir/0318C7494901EE75FF977DB77BBDB989/'.
+[2018.02.11-02.22.20:488][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.11-02.22.22:806][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.11-02.22.22:898][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.11-02.22.22:988][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.11-02.22.23:078][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.11-02.22.23:212][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.11-02.22.23:346][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.11-02.22.23:468][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.11-02.22.23:594][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.11-02.22.23:713][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.11-02.22.23:852][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.11-02.22.23:989][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.11-02.22.24:102][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.11-02.22.24:231][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.11-02.22.24:322][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.11-02.22.24:572][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.11-02.22.24:572][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.11-02.22.24:676][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.11-02.22.24:762][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.11-02.22.25:022][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.11-02.22.25:135][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.11-02.22.25:322][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.11-02.22.25:532][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.11-02.22.25:702][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.11-02.22.25:907][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.11-02.22.25:907][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.11-02.22.27:746][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.11-02.22.28:019][  0]LogDerivedDataCache: Loaded boot cache 0.27s 78MB C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.11-02.22.28:019][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.11-02.22.28:019][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.11-02.22.28:019][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.11-02.22.28:019][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.11-02.22.28:019][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.11-02.22.28:080][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.11-02.22.28:096][  0]LogDerivedDataCache: Using Local data cache path C:/Users/USER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.11-02.22.28:126][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.11-02.22.28:130][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.11-02.22.28:142][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.11-02.22.28:142][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.11-02.22.28:878][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.11-02.22.30:044][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.11-02.22.30:250][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.11-02.22.30:251][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.11-02.22.30:251][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.11-02.22.30:251][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.11-02.22.30:251][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.11-02.22.30:367][  0]LogNetVersion: TimeWar1 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1265721764)
+[2018.02.11-02.22.30:686][  0]LogAssetRegistry: FAssetRegistry took 0.0357 seconds to start up
+[2018.02.11-02.22.31:605][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.072736 seconds
+[2018.02.11-02.22.31:613][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.11-02.22.31:613][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.11-02.22.31:613][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.11-02.22.31:723][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.11-02.22.39:007][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.11-02.22.39:160][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.11-02.22.41:060][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.11-02.22.42:013][  0]SourceControl: Source control is disabled
+[2018.02.11-02.22.42:013][  0]SourceControl: Source control is disabled
+[2018.02.11-02.22.42:187][  0]SourceControl: Source control is disabled
+[2018.02.11-02.22.42:383][  0]SourceControl: Source control is disabled
+[2018.02.11-02.22.44:431][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.11-02.22.45:166][  0]LogOcInput: OculusInput pre-init called
+[2018.02.11-02.22.45:995][  0]LogEngine: Initializing Engine...
+[2018.02.11-02.22.46:003][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.11-02.22.46:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.11-02.22.46:315][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.11-02.22.46:589][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.11-02.22.46:611][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.02.11-02.22.46:699][  0]LogInit: FAudioDevice initialized.
+[2018.02.11-02.22.46:820][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/USER/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.11-02.22.46:835][  0]LogInit: Texture streaming: Enabled
+[2018.02.11-02.22.47:231][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.11-02.22.47:530][  0]LogInit: Transaction tracking system initialized
+[2018.02.11-02.22.48:414][  0]BlueprintLog: New page: Editor Load
+[2018.02.11-02.22.51:256][  0]LocalizationService: Localization service is disabled
+[2018.02.11-02.22.53:848][  0]LogConsoleResponse: Display: 
+[2018.02.11-02.22.54:237][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.11-02.22.54:237][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.11-02.22.54:237][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.11-02.22.54:861][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/' took 0.01s
+[2018.02.11-02.22.57:720][  0]SourceControl: Source control is disabled
+[2018.02.11-02.22.57:722][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.11-02.22.57:734][  0]LightingResults: New page: Lighting Build
+[2018.02.11-02.22.57:896][  0]MapCheck: New page: Map Check
+[2018.02.11-02.22.57:896][  0]LightingResults: New page: Lighting Build
+[2018.02.11-02.22.58:298][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.02.11-02.22.58:319][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.11-02.22.58:343][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.11-02.22.58:421][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.372ms to complete.
+[2018.02.11-02.22.58:421][  0]LogFileHelpers: Loading map 'Template_Default' took 0.700
+[2018.02.11-02.22.58:496][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.11-02.22.58:737][  0]LogCollectionManager: Loaded 0 collections in 0.004119 seconds
+[2018.02.11-02.22.58:903][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Collections/' took 0.01s
+[2018.02.11-02.22.58:903][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Developers/USER/Collections/' took 0.01s
+[2018.02.11-02.22.58:903][  0]LogFileCache: Scanning file cache for directory 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Collections/' took 0.01s
+[2018.02.11-02.22.58:903][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.11-02.22.58:924][  0]LogContentBrowser: Native class hierarchy populated in 0.0197 seconds. Added 2364 classes and 521 folders.
+[2018.02.11-02.22.59:082][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2018.02.11-02.22.59:236][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.02.11-02.22.59:340][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.02.11-02.22.59:432][  0]LogSlate: Took 0.001337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.11-02.22.59:437][  0]LogSlate: Took 0.001353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.11-02.22.59:447][  0]LogSlate: Took 0.001367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.11-02.22.59:562][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.11-02.22.59:874][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2018.02.11-02.22.59:874][  0]LogLoad: (Engine Initialization) Total time: 47.67 seconds
+[2018.02.11-02.22.59:874][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.11-02.22.59:874][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.11-02.22.59:910][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.11-02.22.59:967][  0]LogSlate: Took 0.001661 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.11-02.22.59:985][  1]LogAssetRegistry: Asset discovery search completed in 29.3212 seconds
+[2018.02.11-02.22.59:987][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.11-02.22.59:987][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2018.02.11-02.24.29:897][559]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/ue/Cn_Cn_body_BaseColor.jpg]
+[2018.02.11-02.24.30:236][559]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/ue/Cn_Cn_body_BaseColor.jpg)
+[2018.02.11-02.24.30:372][559]LogTexture: Display: Building textures: Cn_Cn_body_BaseColor (AutoDXT, 2048X2048)
+[2018.02.11-02.24.30:972][559]LogEditorFactories: -- imported successfully
+[2018.02.11-02.24.30:982][559]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.11-02.25.12:464][382]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/ue/Cn_Cn_body_Normal.jpg]
+[2018.02.11-02.25.12:825][382]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/ue/Cn_Cn_body_Normal.jpg)
+[2018.02.11-02.25.12:969][382]LogTexture: Display: Building textures: Cn_Cn_body_Normal (BC5, 2048X2048)
+[2018.02.11-02.25.13:344][382]LogEditorFactories: -- imported successfully
+[2018.02.11-02.26.34:597][703]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/ue/Cn_Cn_body_OcclusionRoughnessMetallic.jpg]
+[2018.02.11-02.26.34:973][703]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/ue/Cn_Cn_body_OcclusionRoughnessMetallic.jpg)
+[2018.02.11-02.26.35:171][703]LogTexture: Display: Building textures: Cn_Cn_body_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.02.11-02.26.36:039][703]LogEditorFactories: -- imported successfully
+[2018.02.11-02.33.00:496][593]LogSlate: Took 0.000441 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.11-02.33.00:559][593]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.028
+[2018.02.11-02.33.00:563][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor] ([1] browsable assets)...
+[2018.02.11-02.33.00:574][593]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor.Cn_Cn_body_BaseColor]
+[2018.02.11-02.33.00:574][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor]
+[2018.02.11-02.33.00:648][593]LogSavePackage: Save=56.89ms
+[2018.02.11-02.33.00:648][593]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_BaseColor_Auto16DD301F54C9DD156DAD480B34E09CFE4.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor_Auto1.uasset'
+[2018.02.11-02.33.00:650][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor_Auto1.uasset
+[2018.02.11-02.33.00:651][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal] ([1] browsable assets)...
+[2018.02.11-02.33.00:660][593]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal.Cn_Cn_body_Normal]
+[2018.02.11-02.33.00:660][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal]
+[2018.02.11-02.33.00:873][593]LogSavePackage: Save=190.94ms
+[2018.02.11-02.33.00:873][593]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_Normal_Auto1B9883971482A3E4A46C159882DDE988B.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal_Auto1.uasset'
+[2018.02.11-02.33.00:875][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal_Auto1.uasset
+[2018.02.11-02.33.00:876][593]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.02.11-02.33.00:884][593]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic.Cn_Cn_body_OcclusionRoughnessMetallic]
+[2018.02.11-02.33.00:884][593]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic]
+[2018.02.11-02.33.01:166][593]LogSavePackage: Save=259.10ms
+[2018.02.11-02.33.01:167][593]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_OcclusionRoughnessMet1AB8A6CD4C24FAC98265529FBD4EE313.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic_Auto1.uasset'
+[2018.02.11-02.33.01:169][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic_Auto1.uasset
+[2018.02.11-02.33.01:169][593]LogFileHelpers: Auto-saving content packages took 0.609
+[2018.02.11-02.33.01:171][593]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.11-02.44.20:296][195]LogRenderer: Reallocating scene render targets to support 1404x576 Format 10 NumSamples 1 (Frame:1).
+[2018.02.11-02.49.16:302][687]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/Cn_Cn_body_Normal.jpg]
+[2018.02.11-02.49.16:303][687]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/Cn_Cn_body_Normal.jpg)
+[2018.02.11-02.49.16:390][687]LogTexture: Display: Building textures: Cn_Cn_body_Normal (BC5, 2048X2048)
+[2018.02.11-02.49.16:759][687]LogEditorFactories: -- imported successfully
+[2018.02.11-02.49.16:779][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\weapons\neno gun\textures\textureSet_ambient_occlusion_3.jpg)
+[2018.02.11-02.49.16:799][687]LogTexture: Display: Building textures: textureSet_ambient_occlusion_3 (AutoDXT, 2048X2048)
+[2018.02.11-02.49.17:437][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\weapons\neno gun\textures\Cn_Cn_body.jpg)
+[2018.02.11-02.49.17:500][687]LogTexture: Display: Building textures: Cn_Cn_body (AutoDXT, 2048X2048)
+[2018.02.11-02.49.18:042][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\weapons\neno gun\textures\Cn_Cn_body_Emission.jpg)
+[2018.02.11-02.49.18:104][687]LogTexture: Display: Building textures: Cn_Cn_body_Emission (AutoDXT, 2048X2048)
+[2018.02.11-02.49.40:572][ 50]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.021
+[2018.02.11-02.49.40:574][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal] ([1] browsable assets)...
+[2018.02.11-02.49.40:583][ 50]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal.Cn_Cn_body_Normal]
+[2018.02.11-02.49.40:583][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal]
+[2018.02.11-02.49.40:782][ 50]LogSavePackage: Save=184.31ms
+[2018.02.11-02.49.40:782][ 50]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_Normal_Auto26ED7A4BB49A0DF26F35BCC86F93EA4FB.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal_Auto2.uasset'
+[2018.02.11-02.49.40:784][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal_Auto2.uasset
+[2018.02.11-02.49.40:785][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Weapons/nano/materials/textures/textureSet_ambient_occlusion_3] ([1] browsable assets)...
+[2018.02.11-02.49.40:793][ 50]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Weapons/nano/materials/textures/textureSet_ambient_occlusion_3.textureSet_ambient_occlusion_3]
+[2018.02.11-02.49.40:793][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Weapons/nano/materials/textures/textureSet_ambient_occlusion_3]
+[2018.02.11-02.49.40:803][ 50]LogSavePackage: Save=8.16ms
+[2018.02.11-02.49.40:803][ 50]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/textureSet_ambient_occlusion_3_ABF3C9C91416183F20335AABF91B57FC5.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/textureSet_ambient_occlusion_3_Auto2.uasset'
+[2018.02.11-02.49.40:805][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/textureSet_ambient_occlusion_3_Auto2.uasset
+[2018.02.11-02.49.40:806][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body] ([1] browsable assets)...
+[2018.02.11-02.49.40:813][ 50]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Weapons/nano/materials/textures/Cn_Cn_body.Cn_Cn_body]
+[2018.02.11-02.49.40:813][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body]
+[2018.02.11-02.49.40:827][ 50]LogSavePackage: Save=11.71ms
+[2018.02.11-02.49.40:827][ 50]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_Auto29673FCA84FA76CC63C0E068A7899382D.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Auto2.uasset'
+[2018.02.11-02.49.40:829][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Auto2.uasset
+[2018.02.11-02.49.40:830][ 50]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emission] ([1] browsable assets)...
+[2018.02.11-02.49.40:834][ 50]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emission.Cn_Cn_body_Emission]
+[2018.02.11-02.49.40:834][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emission]
+[2018.02.11-02.49.40:846][ 50]LogSavePackage: Save=10.43ms
+[2018.02.11-02.49.40:846][ 50]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_Emission_Auto20040D4CC4F53228C6D46D18C03F30044.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emission_Auto2.uasset'
+[2018.02.11-02.49.40:849][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emission_Auto2.uasset
+[2018.02.11-02.49.40:849][ 50]LogFileHelpers: Auto-saving content packages took 0.276
+[2018.02.11-02.52.56:992][227]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/ue/Cn_Cn_body_BaseColor.jpg]
+[2018.02.11-02.52.56:993][227]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/ue/Cn_Cn_body_BaseColor.jpg)
+[2018.02.11-02.52.57:056][227]LogTexture: Display: Building textures: Cn_Cn_body_BaseColor (AutoDXT, 2048X2048)
+[2018.02.11-02.52.57:583][227]LogEditorFactories: -- imported successfully
+[2018.02.11-02.52.57:588][227]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/ue/Cn_Cn_body_Emissive.jpg]
+[2018.02.11-02.52.57:927][227]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/ue/Cn_Cn_body_Emissive.jpg)
+[2018.02.11-02.52.58:015][227]LogTexture: Display: Building textures: Cn_Cn_body_Emissive (AutoDXT, 2048X2048)
+[2018.02.11-02.52.58:357][227]LogEditorFactories: -- imported successfully
+[2018.02.11-02.52.58:367][227]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/ue/Cn_Cn_body_Normal.jpg]
+[2018.02.11-02.52.58:370][227]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/ue/Cn_Cn_body_Normal.jpg)
+[2018.02.11-02.52.58:498][227]LogTexture: Display: Building textures: Cn_Cn_body_Normal (BC5, 2048X2048)
+[2018.02.11-02.52.58:855][227]LogEditorFactories: -- imported successfully
+[2018.02.11-02.52.58:860][227]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/ue/Cn_Cn_body_OcclusionRoughnessMetallic.jpg]
+[2018.02.11-02.52.58:862][227]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/ue/Cn_Cn_body_OcclusionRoughnessMetallic.jpg)
+[2018.02.11-02.52.58:960][227]LogTexture: Display: Building textures: Cn_Cn_body_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.02.11-02.52.59:841][227]LogEditorFactories: -- imported successfully
+[2018.02.11-02.57.59:978][670]LogHttp: Warning: 0000027D8B881180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.11-02.57.59:978][670]LogHttp: Warning: 0000027D8B881180: libcurl info message cache 0 (Connection 8 seems to be dead!)
+[2018.02.11-02.57.59:978][670]LogHttp: Warning: 0000027D8B881180: libcurl info message cache 1 (Closing connection 8)
+[2018.02.11-02.57.59:978][670]LogHttp: Warning: 0000027D8B881180: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.02.11-02.57.59:978][670]LogHttp: Warning: 0000027D8B881180: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.11-02.57.59:978][670]LogHttp: Warning: 0000027D8B881180: libcurl info message cache 4 (Closing connection 9)
+[2018.02.11-02.59.46:392][389]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/ue/Cn_Cn_body_Emissive.jpg]
+[2018.02.11-02.59.46:392][389]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/ue/Cn_Cn_body_Emissive.jpg)
+[2018.02.11-02.59.46:452][389]LogTexture: Display: Building textures: Cn_Cn_body_Emissive (AutoDXT, 2048X2048)
+[2018.02.11-02.59.46:783][389]LogEditorFactories: -- imported successfully
+[2018.02.11-02.59.46:788][389]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/ue/Cn_Cn_body_BaseColor.jpg]
+[2018.02.11-02.59.46:788][389]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/ue/Cn_Cn_body_BaseColor.jpg)
+[2018.02.11-02.59.46:848][389]LogTexture: Display: Building textures: Cn_Cn_body_BaseColor (AutoDXT, 2048X2048)
+[2018.02.11-02.59.47:361][389]LogEditorFactories: -- imported successfully
+[2018.02.11-02.59.47:365][389]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/ue/Cn_Cn_body_Normal.jpg]
+[2018.02.11-02.59.47:367][389]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/ue/Cn_Cn_body_Normal.jpg)
+[2018.02.11-02.59.47:475][389]LogTexture: Display: Building textures: Cn_Cn_body_Normal (BC5, 2048X2048)
+[2018.02.11-02.59.47:800][389]LogEditorFactories: -- imported successfully
+[2018.02.11-02.59.47:806][389]LogEditorFactories: Performing atomic reimport of [F:/weapons/neno gun/textures/ue/Cn_Cn_body_OcclusionRoughnessMetallic.jpg]
+[2018.02.11-02.59.47:808][389]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/weapons/neno gun/textures/ue/Cn_Cn_body_OcclusionRoughnessMetallic.jpg)
+[2018.02.11-02.59.47:906][389]LogTexture: Display: Building textures: Cn_Cn_body_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.02.11-02.59.48:751][389]LogEditorFactories: -- imported successfully
+[2018.02.11-03.00.00:027][679]LogHttp: Warning: 0000027D3392A380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.11-03.00.00:027][679]LogHttp: Warning: 0000027D3392A380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.11-03.00.00:027][679]LogHttp: Warning: 0000027D3392A380: libcurl info message cache 1 (Closing connection 10)
+[2018.02.11-03.00.10:833][938]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.013
+[2018.02.11-03.00.10:835][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor] ([1] browsable assets)...
+[2018.02.11-03.00.10:842][938]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor.Cn_Cn_body_BaseColor]
+[2018.02.11-03.00.10:842][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor]
+[2018.02.11-03.00.10:903][938]LogSavePackage: Save=49.57ms
+[2018.02.11-03.00.10:903][938]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_BaseColor_Auto31B7C03BB48E1DB139DC6298C01D696E0.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor_Auto3.uasset'
+[2018.02.11-03.00.10:905][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor_Auto3.uasset
+[2018.02.11-03.00.10:906][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal] ([1] browsable assets)...
+[2018.02.11-03.00.10:914][938]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal.Cn_Cn_body_Normal]
+[2018.02.11-03.00.10:914][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal]
+[2018.02.11-03.00.11:096][938]LogSavePackage: Save=170.35ms
+[2018.02.11-03.00.11:096][938]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_Normal_Auto3D7F7A8474058E157DD7C12962B4A5C94.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal_Auto3.uasset'
+[2018.02.11-03.00.11:098][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal_Auto3.uasset
+[2018.02.11-03.00.11:099][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.02.11-03.00.11:105][938]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic.Cn_Cn_body_OcclusionRoughnessMetallic]
+[2018.02.11-03.00.11:105][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic]
+[2018.02.11-03.00.11:352][938]LogSavePackage: Save=234.00ms
+[2018.02.11-03.00.11:352][938]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_OcclusionRoughnessMet03A4ABA24463557C4B489AA91AB01A95.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic_Auto3.uasset'
+[2018.02.11-03.00.11:354][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic_Auto3.uasset
+[2018.02.11-03.00.11:355][938]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emissive] ([1] browsable assets)...
+[2018.02.11-03.00.11:359][938]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emissive.Cn_Cn_body_Emissive]
+[2018.02.11-03.00.11:359][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emissive]
+[2018.02.11-03.00.11:394][938]LogSavePackage: Save=26.81ms
+[2018.02.11-03.00.11:394][938]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_Emissive_Auto342CFEC1D4ED245E3CCF555B4FE676B85.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emissive_Auto3.uasset'
+[2018.02.11-03.00.11:396][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emissive_Auto3.uasset
+[2018.02.11-03.00.11:396][938]LogFileHelpers: Auto-saving content packages took 0.562
+[2018.02.11-03.02.00:057][753]LogHttp: Warning: 0000027D260C8100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.11-03.02.00:057][753]LogHttp: Warning: 0000027D260C8100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.11-03.02.00:057][753]LogHttp: Warning: 0000027D260C8100: libcurl info message cache 1 (Closing connection 11)
+[2018.02.11-03.06.41:543][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/beems_ambient_occlusion'
+[2018.02.11-03.06.41:543][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/beems_ambient_occlusion' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/beems.uasset.
+[2018.02.11-03.06.41:543][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/beems : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/beems_ambient_occlusion
+[2018.02.11-03.06.41:543][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/beems_base'
+[2018.02.11-03.06.41:543][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/beems_base' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/beems.uasset.
+[2018.02.11-03.06.41:543][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/beems : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/beems_base
+[2018.02.11-03.06.41:543][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/beems_Normal'
+[2018.02.11-03.06.41:543][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/beems_Normal' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/beems.uasset.
+[2018.02.11-03.06.41:543][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/beems : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/beems_Normal
+[2018.02.11-03.06.41:544][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/beems_ambient_occlusion'
+[2018.02.11-03.06.41:544][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/beems_ambient_occlusion' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/beems.uasset.
+[2018.02.11-03.06.41:544][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/beems_base'
+[2018.02.11-03.06.41:544][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/beems_base' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/beems.uasset.
+[2018.02.11-03.06.41:544][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/beems_Normal'
+[2018.02.11-03.06.41:544][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/beems_Normal' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/beems.uasset.
+[2018.02.11-03.06.41:555][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_ambient_occlusion'
+[2018.02.11-03.06.41:555][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_ambient_occlusion' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset.
+[2018.02.11-03.06.41:555][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/floor : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/Floor_ambient_occlusion
+[2018.02.11-03.06.41:555][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_base'
+[2018.02.11-03.06.41:555][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_base' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset.
+[2018.02.11-03.06.41:555][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/floor : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/Floor_base
+[2018.02.11-03.06.41:556][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_Metallic'
+[2018.02.11-03.06.41:556][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_Metallic' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset.
+[2018.02.11-03.06.41:556][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/floor : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/Floor_Metallic
+[2018.02.11-03.06.41:556][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_Normal'
+[2018.02.11-03.06.41:556][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_Normal' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset.
+[2018.02.11-03.06.41:556][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/floor : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/Floor_Normal
+[2018.02.11-03.06.41:556][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_ambient_occlusion'
+[2018.02.11-03.06.41:556][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_ambient_occlusion' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset.
+[2018.02.11-03.06.41:557][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_base'
+[2018.02.11-03.06.41:557][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_base' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset.
+[2018.02.11-03.06.41:557][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_Metallic'
+[2018.02.11-03.06.41:557][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_Metallic' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset.
+[2018.02.11-03.06.41:557][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_Normal'
+[2018.02.11-03.06.41:557][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_Normal' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset.
+[2018.02.11-03.06.41:566][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/roof_base'
+[2018.02.11-03.06.41:567][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/roof_base' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/roof.uasset.
+[2018.02.11-03.06.41:567][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/roof : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/roof_base
+[2018.02.11-03.06.41:567][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/roof_Metallic'
+[2018.02.11-03.06.41:567][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/roof_Metallic' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/roof.uasset.
+[2018.02.11-03.06.41:567][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/roof : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/roof_Metallic
+[2018.02.11-03.06.41:567][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/roof_Normal'
+[2018.02.11-03.06.41:567][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/roof_Normal' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/roof.uasset.
+[2018.02.11-03.06.41:567][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/roof : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/roof_Normal
+[2018.02.11-03.06.41:567][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/roof_base'
+[2018.02.11-03.06.41:568][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/roof_base' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/roof.uasset.
+[2018.02.11-03.06.41:568][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/roof_Metallic'
+[2018.02.11-03.06.41:568][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/roof_Metallic' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/roof.uasset.
+[2018.02.11-03.06.41:568][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/roof_Normal'
+[2018.02.11-03.06.41:568][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/roof_Normal' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/roof.uasset.
+[2018.02.11-03.06.41:571][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Walls_ambient_occlusion'
+[2018.02.11-03.06.41:571][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Walls_ambient_occlusion' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/walls.uasset.
+[2018.02.11-03.06.41:571][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/walls : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/Walls_ambient_occlusion
+[2018.02.11-03.06.41:571][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Walls_base'
+[2018.02.11-03.06.41:571][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Walls_base' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/walls.uasset.
+[2018.02.11-03.06.41:571][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/walls : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/Walls_base
+[2018.02.11-03.06.41:572][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Walls_Normal'
+[2018.02.11-03.06.41:572][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Walls_Normal' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/walls.uasset.
+[2018.02.11-03.06.41:572][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/walls : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/Walls_Normal
+[2018.02.11-03.06.41:572][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Walls_ambient_occlusion'
+[2018.02.11-03.06.41:572][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Walls_ambient_occlusion' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/walls.uasset.
+[2018.02.11-03.06.41:572][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Walls_base'
+[2018.02.11-03.06.41:572][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Walls_base' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/walls.uasset.
+[2018.02.11-03.06.41:573][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Walls_Normal'
+[2018.02.11-03.06.41:573][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Walls_Normal' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/walls.uasset.
+[2018.02.11-03.06.41:576][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_ambient_occlusion'
+[2018.02.11-03.06.41:576][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_ambient_occlusion' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/x-beem.uasset.
+[2018.02.11-03.06.41:576][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/x-beem : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/X_beem_ambient_occlusion
+[2018.02.11-03.06.41:576][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_base'
+[2018.02.11-03.06.41:576][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_base' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/x-beem.uasset.
+[2018.02.11-03.06.41:576][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/x-beem : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/X_beem_base
+[2018.02.11-03.06.41:576][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_Metallic'
+[2018.02.11-03.06.41:577][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_Metallic' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/x-beem.uasset.
+[2018.02.11-03.06.41:577][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/x-beem : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/X_beem_Metallic
+[2018.02.11-03.06.41:577][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_Normal'
+[2018.02.11-03.06.41:577][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_Normal' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/x-beem.uasset.
+[2018.02.11-03.06.41:577][914]LoadErrors: Error: /Game/Map/Game/Warehouse/materials/x-beem : Can't find file for asset. /Game/Map/Game/Warehouse/Textures/X_beem_Normal
+[2018.02.11-03.06.41:577][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_ambient_occlusion'
+[2018.02.11-03.06.41:577][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_ambient_occlusion' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/x-beem.uasset.
+[2018.02.11-03.06.41:577][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_base'
+[2018.02.11-03.06.41:578][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_base' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/x-beem.uasset.
+[2018.02.11-03.06.41:578][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_Metallic'
+[2018.02.11-03.06.41:578][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_Metallic' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/x-beem.uasset.
+[2018.02.11-03.06.41:578][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_Normal'
+[2018.02.11-03.06.41:578][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_Normal' while loading ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/x-beem.uasset.
+[2018.02.11-03.06.41:580][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/roof_base'
+[2018.02.11-03.06.41:581][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/roof_base.roof_base Referenced by MaterialExpressionTextureSample_0
+[2018.02.11-03.06.41:581][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/roof_base' while loading NULL.
+[2018.02.11-03.06.41:581][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/roof_Metallic'
+[2018.02.11-03.06.41:581][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/roof_Metallic.roof_Metallic Referenced by MaterialExpressionTextureSample_1
+[2018.02.11-03.06.41:581][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/roof_Metallic' while loading NULL.
+[2018.02.11-03.06.41:581][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/roof_Normal'
+[2018.02.11-03.06.41:581][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/roof_Normal.roof_Normal Referenced by MaterialExpressionTextureSample_2
+[2018.02.11-03.06.41:581][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/roof_Normal' while loading NULL.
+[2018.02.11-03.06.41:582][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/roof_Metallic'
+[2018.02.11-03.06.41:582][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/roof_Metallic.roof_Metallic Referenced by MaterialExpressionTextureSample_3
+[2018.02.11-03.06.41:582][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/roof_Metallic' while loading NULL.
+[2018.02.11-03.06.41:583][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_base'
+[2018.02.11-03.06.41:583][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/X_beem_base.X_beem_base Referenced by MaterialExpressionTextureSample_0
+[2018.02.11-03.06.41:583][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_base' while loading NULL.
+[2018.02.11-03.06.41:583][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_ambient_occlusion'
+[2018.02.11-03.06.41:584][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/X_beem_ambient_occlusion.X_beem_ambient_occlusion Referenced by MaterialExpressionTextureSample_11
+[2018.02.11-03.06.41:584][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_ambient_occlusion' while loading NULL.
+[2018.02.11-03.06.41:584][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_Metallic'
+[2018.02.11-03.06.41:584][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/X_beem_Metallic.X_beem_Metallic Referenced by MaterialExpressionTextureSample_12
+[2018.02.11-03.06.41:584][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_Metallic' while loading NULL.
+[2018.02.11-03.06.41:584][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/X_beem_Normal'
+[2018.02.11-03.06.41:584][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/X_beem_Normal.X_beem_Normal Referenced by MaterialExpressionTextureSample_13
+[2018.02.11-03.06.41:584][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/X_beem_Normal' while loading NULL.
+[2018.02.11-03.06.41:585][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Walls_base'
+[2018.02.11-03.06.41:585][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/Walls_base.Walls_base Referenced by MaterialExpressionTextureSample_0
+[2018.02.11-03.06.41:585][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Walls_base' while loading NULL.
+[2018.02.11-03.06.41:585][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Walls_ambient_occlusion'
+[2018.02.11-03.06.41:585][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/Walls_ambient_occlusion.Walls_ambient_occlusion Referenced by MaterialExpressionTextureSample_4
+[2018.02.11-03.06.41:585][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Walls_ambient_occlusion' while loading NULL.
+[2018.02.11-03.06.41:586][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Walls_Normal'
+[2018.02.11-03.06.41:586][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/Walls_Normal.Walls_Normal Referenced by MaterialExpressionTextureSample_5
+[2018.02.11-03.06.41:586][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Walls_Normal' while loading NULL.
+[2018.02.11-03.06.41:586][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_base'
+[2018.02.11-03.06.41:586][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/Floor_base.Floor_base Referenced by MaterialExpressionTextureSample_0
+[2018.02.11-03.06.41:586][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_base' while loading NULL.
+[2018.02.11-03.06.41:586][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_ambient_occlusion'
+[2018.02.11-03.06.41:587][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/Floor_ambient_occlusion.Floor_ambient_occlusion Referenced by MaterialExpressionTextureSample_6
+[2018.02.11-03.06.41:587][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_ambient_occlusion' while loading NULL.
+[2018.02.11-03.06.41:587][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_Metallic'
+[2018.02.11-03.06.41:587][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/Floor_Metallic.Floor_Metallic Referenced by MaterialExpressionTextureSample_7
+[2018.02.11-03.06.41:587][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_Metallic' while loading NULL.
+[2018.02.11-03.06.41:587][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/Floor_Normal'
+[2018.02.11-03.06.41:587][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/Floor_Normal.Floor_Normal Referenced by MaterialExpressionTextureSample_8
+[2018.02.11-03.06.41:587][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/Floor_Normal' while loading NULL.
+[2018.02.11-03.06.41:588][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/beems_base'
+[2018.02.11-03.06.41:588][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/beems_base.beems_base Referenced by MaterialExpressionTextureSample_0
+[2018.02.11-03.06.41:588][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/beems_base' while loading NULL.
+[2018.02.11-03.06.41:588][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/beems_Normal'
+[2018.02.11-03.06.41:588][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/beems_Normal.beems_Normal Referenced by MaterialExpressionTextureSample_10
+[2018.02.11-03.06.41:588][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/beems_Normal' while loading NULL.
+[2018.02.11-03.06.41:589][914]LogLinker: Warning: Can't find file '/Game/Map/Game/Warehouse/Textures/beems_ambient_occlusion'
+[2018.02.11-03.06.41:589][914]LoadErrors: Failed to load /Game/Map/Game/Warehouse/Textures/beems_ambient_occlusion.beems_ambient_occlusion Referenced by MaterialExpressionTextureSample_9
+[2018.02.11-03.06.41:589][914]LogLinker: Warning: Can't find file for asset '/Game/Map/Game/Warehouse/Textures/beems_ambient_occlusion' while loading NULL.
+[2018.02.11-03.06.41:591][914]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.11-03.06.41:591][914]LogMaterial: Warning: C:\Users\USER\Documents\Unreal Projects\TimeWarFPS1\TimeWar1\Content\Map\Game\Warehouse\materials\roof.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.06.41:591][914]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.06.41:605][914]LogMaterial: Missing cached shader map for material x-beem, compiling. 
+[2018.02.11-03.06.41:605][914]LogMaterial: Warning: C:\Users\USER\Documents\Unreal Projects\TimeWarFPS1\TimeWar1\Content\Map\Game\Warehouse\materials\x-beem.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.06.41:605][914]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.06.41:607][914]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.11-03.06.41:607][914]LogMaterial: Warning: C:\Users\USER\Documents\Unreal Projects\TimeWarFPS1\TimeWar1\Content\Map\Game\Warehouse\materials\walls.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.06.41:607][914]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.06.41:608][914]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.11-03.06.41:609][914]LogMaterial: Warning: C:\Users\USER\Documents\Unreal Projects\TimeWarFPS1\TimeWar1\Content\Map\Game\Warehouse\materials\floor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.06.41:609][914]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.06.41:610][914]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.11-03.06.41:611][914]LogMaterial: Warning: C:\Users\USER\Documents\Unreal Projects\TimeWarFPS1\TimeWar1\Content\Map\Game\Warehouse\materials\beems.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.06.41:611][914]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.06.45:610][390]LogActorFactory: Actor Factory created warehouse_19
+[2018.02.11-03.07.21:039][592]LogActorFactory: Actor Factory created warehouse_19
+[2018.02.11-03.08.12:171][600]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.02.11-03.08.21:838][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (warehouse_19)
+[2018.02.11-03.08.35:225][305]Cmd: DELETE
+[2018.02.11-03.08.35:225][305]Cmd: ACTOR DELETE
+[2018.02.11-03.08.35:227][305]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.11-03.08.35:252][305]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.02.11-03.10.18:759][722]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0018 seconds. Added 1 classes and 0 folders.
+[2018.02.11-03.10.18:765][722]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.11-03.10.18:766][722]LogMaterial: Warning: /Engine/Transient.beems (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.10.18:766][722]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.10.18:902][722]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.11-03.10.18:903][722]LogMaterial: Warning: /Engine/Transient.beems (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.10.18:903][722]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.10.18:907][722]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.11-03.10.18:908][722]LogMaterial: Warning: /Engine/Transient.beems (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.10.18:908][722]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.10.18:935][722]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.11-03.10.18:936][722]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.02.11-03.10.18:938][722]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.02.11-03.10.18:940][722]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.10.18:951][722]LogSlate: Took 0.001973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.11-03.12.04:458][386]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.11-03.12.04:458][386]LogMaterial: Warning: /Engine/Transient.beems (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.12.04:458][386]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.12.04:464][386]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.02.11-03.12.52:702][532]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.11-03.12.52:704][532]LogMaterial: Warning: /Engine/Transient.beems (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.12.52:704][532]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.12.52:714][532]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.02.11-03.13.17:144][871]LogSavePackage: Save=31.68ms
+[2018.02.11-03.13.17:144][871]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Untitled_1_Auto480969AC34C7E1CF63C638C942BCC2E01.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Temp/Untitled_1_Auto4.umap'
+[2018.02.11-03.13.17:145][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Temp/Untitled_1_Auto4.umap
+[2018.02.11-03.13.17:148][871]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.060
+[2018.02.11-03.13.17:148][871]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.060
+[2018.02.11-03.17.09:098][ 98]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.11-03.17.09:146][ 98]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.11-03.17.10:211][180]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.11-03.17.10:211][180]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.02.11-03.17.10:211][180]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.11-03.17.10:211][180]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.11-03.17.10:211][180]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.11-03.17.19:238][114]LogMaterialEditor: Applying material beems
+[2018.02.11-03.17.19:837][114]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.11-03.17.19:913][114]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.11-03.17.19:952][114]LogMaterial: Missing cached shader map for material beems, compiling. 
+[2018.02.11-03.17.20:006][114]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy beems, compiling. 
+[2018.02.11-03.17.20:498][114]TextureStreamingBuild: Display: Compiling optional shaders took 0.500 seconds.
+[2018.02.11-03.17.22:510][334]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.11-03.17.22:510][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.02.11-03.17.22:510][334]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.11-03.17.22:510][334]MaterialEditorStats: Texture samplers: 6/16
+[2018.02.11-03.17.22:510][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.11-03.17.27:672][759]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.11-03.17.27:672][759]LogMaterial: Warning: /Engine/Transient.floor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.17.27:673][759]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.17.27:782][759]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.11-03.17.27:782][759]LogMaterial: Warning: /Engine/Transient.floor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.17.27:782][759]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.17.27:785][759]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.11-03.17.27:785][759]LogMaterial: Warning: /Engine/Transient.floor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.17.27:785][759]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.17.27:816][759]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.11-03.17.27:817][759]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.11-03.17.27:819][759]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.11-03.17.27:819][759]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.02.11-03.17.27:822][759]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.19.13:393][837]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.11-03.19.13:393][837]LogMaterial: Warning: /Engine/Transient.floor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.19.13:393][837]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.19.13:397][837]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.02.11-03.20.11:803][673]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.11-03.20.11:804][673]LogMaterial: Warning: /Engine/Transient.floor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.20.11:804][673]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.20.11:812][673]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.02.11-03.20.40:090][677]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.11-03.20.40:090][677]LogMaterial: Warning: /Engine/Transient.floor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.20.40:090][677]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.20.40:093][677]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.02.11-03.21.57:941][305]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.11-03.21.57:963][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.11-03.21.58:995][389]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.11-03.21.58:995][389]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.02.11-03.21.58:995][389]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.02.11-03.21.58:995][389]MaterialEditorStats: Texture samplers: 6/16
+[2018.02.11-03.21.58:995][389]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2018.02.11-03.22.22:047][911]LogMaterialEditor: Applying material floor
+[2018.02.11-03.22.22:677][911]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.11-03.22.22:728][911]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.11-03.22.22:802][911]LogMaterial: Missing cached shader map for material floor, compiling. 
+[2018.02.11-03.22.22:843][911]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy floor, compiling. 
+[2018.02.11-03.22.23:745][911]TextureStreamingBuild: Display: Compiling optional shaders took 0.907 seconds.
+[2018.02.11-03.22.25:752][128]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.11-03.22.25:752][128]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.02.11-03.22.25:752][128]MaterialEditorStats: Vertex shader: 30 instructions
+[2018.02.11-03.22.25:752][128]MaterialEditorStats: Texture samplers: 7/16
+[2018.02.11-03.22.25:752][128]MaterialEditorStats: User interpolators: 4/4 Scalars (1/4 Vectors) (TexCoords: 4, Custom: 0)
+[2018.02.11-03.22.29:421][438]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.11-03.22.29:421][438]LogMaterial: Warning: /Engine/Transient.roof (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.22.29:421][438]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.22.29:505][438]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.11-03.22.29:506][438]LogMaterial: Warning: /Engine/Transient.roof (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.22.29:506][438]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.22.29:508][438]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.11-03.22.29:509][438]LogMaterial: Warning: /Engine/Transient.roof (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.22.29:509][438]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.22.29:538][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.11-03.22.29:543][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.11-03.22.29:546][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.02.11-03.22.29:549][438]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.11-03.22.29:552][438]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.23.13:923][913]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.11-03.23.13:923][913]LogMaterial: Warning: /Engine/Transient.roof (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.23.13:923][913]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.23.13:929][913]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.02.11-03.24.22:888][718]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.11-03.24.22:889][718]LogMaterial: Warning: /Engine/Transient.roof (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.24.22:889][718]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.24.22:894][718]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.02.11-03.25.16:168][375]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.11-03.25.16:168][375]LogMaterial: Warning: /Engine/Transient.roof (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.25.16:168][375]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.25.16:175][375]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.11-03.26.29:372][545]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.11-03.26.29:391][545]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.11-03.26.30:462][634]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.11-03.26.30:462][634]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.02.11-03.26.30:462][634]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.11-03.26.30:462][634]MaterialEditorStats: Texture samplers: 5/16
+[2018.02.11-03.26.30:462][634]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.11-03.26.43:459][107]LogMaterialEditor: Applying material roof
+[2018.02.11-03.26.44:137][107]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.11-03.26.44:179][107]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.11-03.26.44:208][107]LogMaterial: Missing cached shader map for material roof, compiling. 
+[2018.02.11-03.26.44:256][107]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy roof, compiling. 
+[2018.02.11-03.26.44:811][107]TextureStreamingBuild: Display: Compiling optional shaders took 0.563 seconds.
+[2018.02.11-03.26.46:682][308]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.02.11-03.26.46:683][308]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.02.11-03.26.46:683][308]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.11-03.26.46:683][308]MaterialEditorStats: Texture samplers: 6/16
+[2018.02.11-03.26.46:683][308]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.11-03.26.51:975][745]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.11-03.26.51:975][745]LogMaterial: Warning: /Engine/Transient.walls (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.26.51:975][745]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.26.52:055][745]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.11-03.26.52:055][745]LogMaterial: Warning: /Engine/Transient.walls (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.26.52:055][745]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.26.52:058][745]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.11-03.26.52:058][745]LogMaterial: Warning: /Engine/Transient.walls (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.26.52:058][745]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.26.52:088][745]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.11-03.26.52:090][745]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.11-03.26.52:091][745]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.02.11-03.26.52:093][745]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.28.51:977][208]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.11-03.28.51:978][208]LogMaterial: Warning: /Engine/Transient.walls (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.28.51:978][208]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.28.51:982][208]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.02.11-03.29.35:354][845]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.019
+[2018.02.11-03.29.35:357][845]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/Game/Warehouse/materials/beems] ([1] browsable assets)...
+[2018.02.11-03.29.35:373][845]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Map/Game/Warehouse/materials/beems.beems]
+[2018.02.11-03.29.35:373][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Game/Warehouse/materials/beems]
+[2018.02.11-03.29.35:398][845]LogSavePackage: Save=13.56ms
+[2018.02.11-03.29.35:399][845]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/beems_Auto5F38A33CC48A6D5509D34D5AE5875618F.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/Map/Game/Warehouse/materials/beems_Auto5.uasset'
+[2018.02.11-03.29.35:400][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/Map/Game/Warehouse/materials/beems_Auto5.uasset
+[2018.02.11-03.29.35:401][845]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/Game/Warehouse/materials/floor] ([1] browsable assets)...
+[2018.02.11-03.29.35:416][845]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Map/Game/Warehouse/materials/floor.floor]
+[2018.02.11-03.29.35:416][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Game/Warehouse/materials/floor]
+[2018.02.11-03.29.35:439][845]LogSavePackage: Save=14.17ms
+[2018.02.11-03.29.35:439][845]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/floor_Auto5BBCA48B947FD7B73E6B1D9A36A6964E5.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/Map/Game/Warehouse/materials/floor_Auto5.uasset'
+[2018.02.11-03.29.35:440][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/Map/Game/Warehouse/materials/floor_Auto5.uasset
+[2018.02.11-03.29.35:441][845]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map/Game/Warehouse/materials/roof] ([1] browsable assets)...
+[2018.02.11-03.29.35:467][845]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Map/Game/Warehouse/materials/roof.roof]
+[2018.02.11-03.29.35:467][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Game/Warehouse/materials/roof]
+[2018.02.11-03.29.35:491][845]LogSavePackage: Save=14.72ms
+[2018.02.11-03.29.35:491][845]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/roof_Auto56CE112824C4F6DF319B4BCAA15A05ADC.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/Map/Game/Warehouse/materials/roof_Auto5.uasset'
+[2018.02.11-03.29.35:494][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Autosaves/Game/Map/Game/Warehouse/materials/roof_Auto5.uasset
+[2018.02.11-03.29.35:494][845]LogFileHelpers: Auto-saving content packages took 0.138
+[2018.02.11-03.34.57:855][ 98]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.11-03.34.57:855][ 98]LogMaterial: Warning: /Engine/Transient.walls (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.34.57:855][ 98]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.34.57:881][ 98]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.11-03.34.57:882][ 98]LogMaterial: Warning: C:\Users\USER\Documents\Unreal Projects\TimeWarFPS1\TimeWar1\Content\Map\Game\Warehouse\materials\walls.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.34.57:882][ 98]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.34.57:888][ 98]LogMaterial: Missing cached shader map for material walls, compiling. 
+[2018.02.11-03.34.57:888][ 98]LogMaterial: Warning: C:\Users\USER\Documents\Unreal Projects\TimeWarFPS1\TimeWar1\Content\Map\Game\Warehouse\materials\walls.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.02.11-03.34.57:888][ 98]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.02.11-03.34.57:918][ 98]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy walls, compiling. 
+[2018.02.11-03.34.57:918][ 98]TextureStreamingBuild: Display: Compiling optional shaders took 0.007 seconds.
+[2018.02.11-03.35.09:641][ 98]LogSavePackage: Save=195.75ms
+[2018.02.11-03.35.09:641][ 98]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_BaseColorF52B4F8F41A050CF5BCD859A478AFD76.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor.uasset'
+[2018.02.11-03.35.09:645][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_BaseColor.uasset
+[2018.02.11-03.35.09:869][ 98]LogSavePackage: Save=194.04ms
+[2018.02.11-03.35.09:869][ 98]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_Emissive0005C1E04C03D9DD776EB5BD4302B6D9.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emissive.uasset'
+[2018.02.11-03.35.09:877][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_Emissive.uasset
+[2018.02.11-03.35.10:638][ 98]LogSavePackage: Save=710.16ms
+[2018.02.11-03.35.10:638][ 98]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_NormalF03DBBDF49D32EA7A42B05AC96D249F4.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal.uasset'
+[2018.02.11-03.35.10:644][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_Normal.uasset
+[2018.02.11-03.35.11:439][ 98]LogSavePackage: Save=727.67ms
+[2018.02.11-03.35.11:439][ 98]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Cn_Cn_body_OcclusionRoughnessMet06999D7D4A7E8E0E7FF92EBABA684705.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic.uasset'
+[2018.02.11-03.35.11:443][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/3D/Weapons/nano/materials/textures/Cn_Cn_body_OcclusionRoughnessMetallic.uasset
+[2018.02.11-03.35.11:461][ 98]LogSavePackage: Save=4.68ms
+[2018.02.11-03.35.11:461][ 98]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/beems39DFDC2E435F214511FC0F87430EF6CE.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/beems.uasset'
+[2018.02.11-03.35.11:464][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/beems.uasset
+[2018.02.11-03.35.11:482][ 98]LogSavePackage: Save=5.24ms
+[2018.02.11-03.35.11:482][ 98]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/floor273632C9483F07E6994320AA1AEC224F.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset'
+[2018.02.11-03.35.11:485][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/floor.uasset
+[2018.02.11-03.35.11:516][ 98]LogSavePackage: Save=4.52ms
+[2018.02.11-03.35.11:516][ 98]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/roof915C5E8E4D437261DE30A580A9528E1E.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/roof.uasset'
+[2018.02.11-03.35.11:519][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/roof.uasset
+[2018.02.11-03.35.11:661][ 98]LogSavePackage: Save=33.24ms
+[2018.02.11-03.35.11:662][ 98]LogSavePackage: Moving '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/wallsD84D6CDD425C305332C67C9C05B69668.tmp' to '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/walls.uasset'
+[2018.02.11-03.35.11:670][ 98]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Map/Game/Warehouse/materials/walls.uasset
+[2018.02.11-03.36.13:780][635]Cmd: QUIT_EDITOR
+[2018.02.11-03.36.13:810][635]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.11-03.36.13:827][635]LogExit: Preparing to exit.
+[2018.02.11-03.36.14:142][635]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/' was aborted.
+[2018.02.11-03.36.14:167][635]LogExit: Editor shut down
+[2018.02.11-03.36.14:174][635]LogExit: Transaction tracking system shut down
+[2018.02.11-03.36.14:416][635]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.11-03.36.14:416][635]LogDirectoryWatcher: A directory notification for '../../../../../../Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/' was aborted.
+[2018.02.11-03.36.14:416][635]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.11-03.36.14:416][635]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.11-03.36.14:417][635]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.11-03.36.14:417][635]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.11-03.36.14:417][635]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.11-03.36.14:491][635]LogExit: Object subsystem successfully closed.
+[2018.02.11-03.36.14:518][635]LogD3D11RHI: Shutdown
+[2018.02.11-03.36.14:518][635]LogD3D11RHI: CleanupD3DDevice
+[2018.02.11-03.36.14:525][635]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.11-03.36.14:575][635]LogModuleManager: Shutting down and abandoning module MaterialEditor (556)
+[2018.02.11-03.36.14:575][635]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (554)
+[2018.02.11-03.36.14:575][635]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.02.11-03.36.14:576][635]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.02.11-03.36.14:576][635]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.02.11-03.36.14:576][635]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.02.11-03.36.14:576][635]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.11-03.36.14:586][635]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.02.11-03.36.14:587][635]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.02.11-03.36.14:587][635]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.02.11-03.36.14:587][635]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Collections/' was aborted.
+[2018.02.11-03.36.14:587][635]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Content/Developers/USER/Collections/' was aborted.
+[2018.02.11-03.36.14:587][635]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Saved/Collections/' was aborted.
+[2018.02.11-03.36.14:587][635]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (538)
+[2018.02.11-03.36.14:587][635]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.11-03.36.14:587][635]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.11-03.36.14:587][635]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.11-03.36.14:588][635]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.11-03.36.14:589][635]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.11-03.36.14:590][635]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.11-03.36.14:590][635]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.11-03.36.14:590][635]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.11-03.36.14:590][635]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.11-03.36.14:591][635]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.11-03.36.14:591][635]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.11-03.36.14:591][635]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.11-03.36.14:591][635]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.11-03.36.15:557][635]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.11-03.36.15:557][635]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.11-03.36.15:557][635]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.11-03.36.15:557][635]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.11-03.36.15:557][635]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.11-03.36.15:558][635]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.11-03.36.15:558][635]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.11-03.36.15:558][635]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.11-03.36.15:558][635]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.11-03.36.15:558][635]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.11-03.36.15:558][635]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.11-03.36.15:558][635]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.11-03.36.15:558][635]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.11-03.36.15:558][635]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.11-03.36.15:558][635]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.11-03.36.15:558][635]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.11-03.36.15:559][635]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.11-03.36.15:559][635]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.11-03.36.15:559][635]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.11-03.36.15:559][635]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.11-03.36.15:560][635]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.11-03.36.15:560][635]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.11-03.36.15:560][635]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.11-03.36.15:560][635]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.11-03.36.15:612][635]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.11-03.36.15:612][635]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.11-03.36.15:613][635]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.11-03.36.15:614][635]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.11-03.36.15:614][635]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.11-03.36.15:614][635]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.11-03.36.15:614][635]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.11-03.36.15:615][635]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.11-03.36.15:615][635]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.11-03.36.15:615][635]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.11-03.36.15:616][635]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.11-03.36.15:616][635]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.11-03.36.15:616][635]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.11-03.36.15:617][635]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.11-03.36.15:617][635]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.11-03.36.15:617][635]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.11-03.36.15:618][635]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.11-03.36.15:618][635]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.11-03.36.15:619][635]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.11-03.36.15:619][635]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.11-03.36.15:619][635]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.11-03.36.15:619][635]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.11-03.36.15:619][635]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.11-03.36.15:619][635]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.11-03.36.15:619][635]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.11-03.36.15:619][635]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.11-03.36.15:619][635]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.11-03.36.15:619][635]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.11-03.36.15:619][635]LogModuleManager: Shutting down and abandoning module ProfilerService (350)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module TaskGraph (348)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2018.02.11-03.36.15:789][635]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2018.02.11-03.36.15:790][635]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2018.02.11-03.36.15:790][635]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2018.02.11-03.36.15:790][635]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2018.02.11-03.36.15:790][635]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2018.02.11-03.36.15:790][635]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2018.02.11-03.36.15:790][635]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2018.02.11-03.36.15:790][635]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2018.02.11-03.36.15:790][635]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2018.02.11-03.36.15:790][635]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2018.02.11-03.36.15:791][635]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2018.02.11-03.36.15:791][635]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2018.02.11-03.36.15:791][635]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2018.02.11-03.36.15:791][635]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2018.02.11-03.36.15:792][635]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2018.02.11-03.36.15:792][635]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2018.02.11-03.36.15:792][635]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2018.02.11-03.36.15:792][635]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2018.02.11-03.36.15:792][635]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2018.02.11-03.36.15:792][635]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2018.02.11-03.36.15:792][635]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2018.02.11-03.36.15:792][635]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2018.02.11-03.36.15:792][635]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2018.02.11-03.36.15:793][635]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2018.02.11-03.36.15:795][635]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2018.02.11-03.36.15:795][635]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2018.02.11-03.36.15:795][635]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2018.02.11-03.36.15:795][635]LogDirectoryWatcher: A directory notification for 'C:/Users/USER/Documents/Unreal Projects/TimeWarFPS1/TimeWar1/Binaries/Win64' was aborted.
+[2018.02.11-03.36.15:796][635]LogModuleManager: Shutting down and abandoning module TimeWar1 (270)
+[2018.02.11-03.36.15:796][635]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.11-03.36.15:796][635]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.11-03.36.15:797][635]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.11-03.36.15:797][635]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.11-03.36.15:797][635]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.11-03.36.15:797][635]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.11-03.36.15:797][635]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.11-03.36.15:797][635]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.11-03.36.15:898][635]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.11-03.36.15:998][635]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.11-03.36.15:998][635]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.11-03.36.15:998][635]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.11-03.36.15:998][635]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.11-03.36.15:998][635]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.11-03.36.15:999][635]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.11-03.36.16:001][635]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.11-03.36.16:001][635]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.11-03.36.16:001][635]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.11-03.36.16:001][635]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.11-03.36.16:001][635]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.11-03.36.16:001][635]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.11-03.36.16:001][635]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.11-03.36.16:001][635]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.11-03.36.16:001][635]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.11-03.36.16:002][635]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.11-03.36.16:009][635]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.11-03.36.16:009][635]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.11-03.36.16:009][635]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.11-03.36.16:009][635]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.11-03.36.16:009][635]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.11-03.36.16:009][635]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.11-03.36.16:010][635]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.11-03.36.16:010][635]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.11-03.36.16:010][635]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.11-03.36.16:010][635]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.11-03.36.16:010][635]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.11-03.36.16:012][635]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.11-03.36.16:012][635]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.11-03.36.16:012][635]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.11-03.36.16:013][635]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.11-03.36.16:013][635]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.11-03.36.16:021][635]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.11-03.36.16:021][635]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.11-03.36.16:021][635]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.11-03.36.16:021][635]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.11-03.36.16:021][635]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.11-03.36.16:021][635]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.11-03.36.16:021][635]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.11-03.36.16:021][635]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.11-03.36.16:024][635]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.11-03.36.16:024][635]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.11-03.36.16:024][635]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.11-03.36.16:025][635]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.11-03.36.16:025][635]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.11-03.36.16:025][635]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.11-03.36.16:025][635]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.11-03.36.16:025][635]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.11-03.36.16:025][635]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.11-03.36.16:074][635]LogDerivedDataCache: Shutdown
+[2018.02.11-03.36.16:074][635]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.11-03.36.16:074][635]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.11-03.36.16:074][635]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.11-03.36.16:074][635]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.11-03.36.16:074][635]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.11-03.36.16:074][635]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.11-03.36.16:075][635]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.11-03.36.16:076][635]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.11-03.36.16:077][635]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.11-03.36.16:077][635]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.11-03.36.16:077][635]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.11-03.36.16:077][635]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.11-03.36.16:077][635]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.11-03.36.16:077][635]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.11-03.36.16:077][635]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.11-03.36.16:077][635]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.11-03.36.16:078][635]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF596A3F3-4315-EAD1-5252-DEAFE30A93A9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=ec799bd94a0663e17561c09537540a5d%7C00072fce3f5746b4bd1c3dbe4d5b20b6%7C802ca7f4-3e19-4227-a56d-2dc34c402533&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.11-03.36.16:106][635]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.11-03.36.16:108][635]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.11-03.36.16:108][635]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.11-03.36.16:108][635]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.11-03.36.16:108][635]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.11-03.36.16:109][635]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.11-03.36.16:109][635]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.11-03.36.16:109][635]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.11-03.36.16:110][635]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.11-03.36.16:111][635]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.11-03.36.16:111][635]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.11-03.36.16:111][635]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.11-03.36.16:111][635]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.11-03.36.16:111][635]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.11-03.36.16:111][635]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.11-03.36.16:111][635]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.11-03.36.16:111][635]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.11-03.36.16:111][635]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.11-03.36.16:111][635]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.11-03.36.16:121][635]LogExit: Exiting.
+[2018.02.11-03.36.16:142][635]Log file closed, 02/10/18 19:36:16
